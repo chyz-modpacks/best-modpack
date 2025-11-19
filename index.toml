@@ -394,11 +394,6 @@ hash = "f05b7aec4046e3860a4795a74b036c58153b509f5ba1f4a8cacc6ab5a1dff87e"
 metafile = true
 
 [[files]]
-file = "mods/illuminated.pw.toml"
-hash = "c045dc9681da3ae49ffe0e511bd2093d35edc9708ada5dc83e321e76b640009b"
-metafile = true
-
-[[files]]
 file = "mods/inline.pw.toml"
 hash = "5564eb9e3b9a1f1f38cb4e57573559fefd7f9b68804a2cc5380d39dfeaf51b41"
 metafile = true
