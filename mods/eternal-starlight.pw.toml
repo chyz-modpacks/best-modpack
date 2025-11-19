@@ -1,0 +1,13 @@
+name = "Eternal Starlight"
+filename = "eternalstarlight-0.6.2+1.21.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XvcfUGfB/versions/woDFORkx/eternalstarlight-0.6.2%2B1.21.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "d0a8b677d8b036222f983da6b8c7a4bf150f3d5063ccaae653b33a313b8dd0ba3a2e5105a0d9a55042a2d62ec4418882c2d34b2384c012c5b39055f698c85e51"
+
+[update]
+[update.modrinth]
+mod-id = "XvcfUGfB"
+version = "woDFORkx"

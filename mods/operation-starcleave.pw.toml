@@ -1,0 +1,13 @@
+name = "Operation: Starcleave"
+filename = "operation_starcleave-fabric-mc1.21.1-0.2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EXJCB46/versions/Xeag4mks/operation_starcleave-fabric-mc1.21.1-0.2.0.3.jar"
+hash-format = "sha512"
+hash = "8ac4923996cd51088805cdd48cb8e42ecabcca2d4cc8e01840be8e9a8574e3fb6dfdcb4a04b698badf622cb3f273313b14579606a7be3eee5ea1d34e63a277cf"
+
+[update]
+[update.modrinth]
+mod-id = "6EXJCB46"
+version = "Xeag4mks"

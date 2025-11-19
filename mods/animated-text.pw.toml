@@ -1,0 +1,13 @@
+name = "Animated Text"
+filename = "animated-text-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ywZIzJjY/versions/lFTapWAj/animated-text-1.0.0.jar"
+hash-format = "sha512"
+hash = "15c84c97718ea006debbc0bb6a7bdecc4c6e92c1f6cf33c5753c0f9c3b991e3ea99fdea0266f406d90778a76252ead03c8f80a0a9ab1ab49fc005bd504697975"
+
+[update]
+[update.modrinth]
+mod-id = "ywZIzJjY"
+version = "lFTapWAj"

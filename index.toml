@@ -90,12 +90,17 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "bc649f0960b84625957f2f81b3db0ddbe0b0cca0efb3169d54382916c5f062ea"
+hash = "d4838d91cd7747816ade0f2f4a46c701a53c3ef84cb278ec24e8f6fb828a85c3"
 metafile = true
 
 [[files]]
 file = "mods/animated-doors.pw.toml"
 hash = "432ba44ef8400f9bb2b39f488e15052ef64148c401e053cf0269d70c5efd42fa"
+metafile = true
+
+[[files]]
+file = "mods/animated-text.pw.toml"
+hash = "3f03676689fd462bcd25d0e54ed92402eacfb6fbff53ccd6877c025d605e91f9"
 metafile = true
 
 [[files]]
@@ -111,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/anthropophagy.pw.toml"
 hash = "aaa871c63240e610c50b74b2e7a44a71089f1dbe560dd4f8658ec4460d797a25"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
@@ -131,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/aurae.pw.toml"
 hash = "000b5ebd56226ec46fe8c62a49549e66c1bcb7cd2c8d78463a413358c4b8f3e5"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
 metafile = true
 
 [[files]]
@@ -309,6 +324,11 @@ hash = "05850472e6a4a2595f2c9d49519d00d8272250f788d4b316b56d1f943dbf819e"
 metafile = true
 
 [[files]]
+file = "mods/eternal-starlight.pw.toml"
+hash = "a4c1a460e640533e20d24979163ed8a4ab667efc4bcdf2cd5f9be43056d0280c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
 metafile = true
@@ -428,8 +448,13 @@ file = "mods/interactic-0.2.3+1.21.jar"
 hash = "fad6a5321f0a69c70dcbe62c631166b6549b1d9656929c011e6c1d57b1dea0da"
 
 [[files]]
-file = "mods/inventory-management.pw.toml"
-hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "664035ab6b81584cc42c158d4246a0888e42e41a1ad66c2985694392fd192b86"
+metafile = true
+
+[[files]]
+file = "mods/ismah.pw.toml"
+hash = "586ede84dc1dcf0f142bd53b723bc55423b506f5b2fdf5f09b611986dc531e99"
 metafile = true
 
 [[files]]
@@ -475,6 +500,16 @@ metafile = true
 [[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "35c9286e4ba744cca20c3f8c5c069880e9f6bf7364c6a3bdccf5a83ea7213e9e"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "2898959cae6f90183ad4c6e0384b4b7cc485ae0ef9474e7765a57d97a2542b05"
 metafile = true
 
 [[files]]
@@ -557,6 +592,11 @@ hash = "e599380cf589759cbfedb5d1b77e7c91710efdd262d4b3f7d8e6ba7ee6db9455"
 metafile = true
 
 [[files]]
+file = "mods/operation-starcleave.pw.toml"
+hash = "39c28dcc96c7f5d6a4b9fd7910599aa4552f3cd4dc6da51599222af692b7ed6d"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "eda50091c6726855de7a3c08259a83282f65b8845b26ea8c2f824b2ad5f0d599"
 metafile = true
@@ -582,6 +622,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/player-locator-plus.pw.toml"
+hash = "95f470ffc8438ce15d252e73a959744af3eb699cc3e8458d975b1d20759606ce"
+metafile = true
+
+[[files]]
 file = "mods/pneumono_core.pw.toml"
 hash = "9c7978a3af54d109b1ae4a035672024d178641df8c553126e405f381d814041a"
 metafile = true
@@ -589,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
 hash = "3ca867b96ce71321b882606ed97d3c4af8bba5b4886dd71589f29c6e022b152c"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
 
 [[files]]
@@ -668,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/sparkweave.pw.toml"
 hash = "f75bbec1a914e91da0c1b7a70ddca2201441c5fd5d7eb0c941a2f4c4af85b2dd"
+metafile = true
+
+[[files]]
+file = "mods/spectral_mod.pw.toml"
+hash = "bc79a280f1833f46d392eebdf4d3c44248cde5dbc91007eae4d431693b250cb9"
 metafile = true
 
 [[files]]
@@ -756,11 +811,6 @@ hash = "88f3573b6da151f5fd7e38679cd338e1a2be9cf7bb90716043381b453b84ab4d"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
-metafile = true
-
-[[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "3fefc12166c170f5a701e93067aedba80ae033303afbc4f15d90b09aa4c05382"
 metafile = true
@@ -777,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
 metafile = true
 
 [[files]]
