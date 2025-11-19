@@ -1,34 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/best-modpack.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/inspectionProfiles/Project_Default.xml"
-hash = "8aa0126b04b74a672034ecb7de6c2ddbaf9d9186b898ab72fce57fc67175e200"
-
-[[files]]
-file = ".idea/libraries/mods.xml"
-hash = "d9bc4be245865982711088b42158a40459257586fc4aa44a8329d275731ad4a9"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "1ea81f4393f15c4899bef4f2c1ad39817a8685ef9483f60bd4412854071879b2"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "0c8a8eb561e8203eb483cad2f064042ef9741edae09736e420e1da5998e68ffa"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "3d76b2641a3535424d8e3f7a1640fe6583fd736dd09071a4fdea86eb59c03718"
-
-[[files]]
 file = "config/WildfireGender/7fa2402a-8fdb-4584-9a9b-33b4c9dcf941.json"
 hash = "16dffc303eff7771659e4c177081accdd18a5e118e0e3fdf784bd625249b4aeb"
 
