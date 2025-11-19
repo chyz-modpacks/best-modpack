@@ -741,9 +741,8 @@ hash = "3fefc12166c170f5a701e93067aedba80ae033303afbc4f15d90b09aa4c05382"
 metafile = true
 
 [[files]]
-file = "mods/witchs-blights.pw.toml"
-hash = "8299d2710f33be85da523558c44ac366cff4ba884919f7f0e7400c7b6c602819"
-metafile = true
+file = "mods/witchs-blights-0.0.3.jar"
+hash = "79e76d2a52a932f801bfe45e57f9aa1803398c41e21bfe716f42931fa0696bae"
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
