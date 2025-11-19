@@ -423,6 +423,11 @@ hash = "615c9931c427144a54bfb13105e1a0cf9d64c4f7bb632969af890d9f890767fa"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "f99d68db548845d3e5cad75d714429ea73deaa5d41d8d3404af8ca4eb74f1457"
 metafile = true
