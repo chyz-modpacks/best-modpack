@@ -33,6 +33,10 @@ file = "config/dashloader.json"
 hash = "fed14345aa279074d7eea2b47d3b6e9419cb7e7da03a79b27cca4a344b45f197"
 
 [[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "4e3329aa1095d126180a7965ff404f25c104372efbab6c6d9d348909fec0932a"
+
+[[files]]
 file = "config/mermod-server.toml"
 hash = "df24bc0e632958072e64a89e0251c4e30bb7ecfe09574745bbe7beb3b9ec3f1b"
 
@@ -775,3 +779,7 @@ metafile = true
 file = "resourcepacks/spectral.pw.toml"
 hash = "63af0d70b552b450a1940ee326c3bbdc2e4e788475bb1fda0e64c86421393413"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "9f41ee0890fae453ba696cc06c05f5c4f04936f7e0812f358f4ee27b7090a418"
