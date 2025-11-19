@@ -1,0 +1,13 @@
+name = "Ghost Gear"
+filename = "ghostgear-fabric-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X6AHEXly/versions/sZgIAyt5/ghostgear-fabric-1.21.1-21.1.1.jar"
+hash-format = "sha512"
+hash = "ee29fd1999e810d94ab27119877f432175a9129c3f4487044d945c947965926c13ed85b65a307a6ba0c2f86e7881da01c6f63f1da0ed3da25fcc7d244cd0e248"
+
+[update]
+[update.modrinth]
+mod-id = "X6AHEXly"
+version = "sZgIAyt5"

@@ -1,0 +1,13 @@
+name = "Electromechanics"
+filename = "electromechanics-1.2.4+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lcr6Ckb4/versions/2SkavnO9/electromechanics-1.2.4%2B1.21.jar"
+hash-format = "sha512"
+hash = "3a846c5036c95cc3045e4e3a2d714bedb93752db05d9dde658b3b66a2b7d2b80dad8f32fa1daec1113ec6e67175cf24c87f7e3615f2dabfdab9df58170ce32a5"
+
+[update]
+[update.modrinth]
+mod-id = "lcr6Ckb4"
+version = "2SkavnO9"

@@ -1,0 +1,13 @@
+name = "Just Another Witchery Remake"
+filename = "witchery-fabric-0.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LCO8KZvC/versions/UollMwVJ/witchery-fabric-0.3.7.jar"
+hash-format = "sha512"
+hash = "0e0d65aa8be83310bb9f54548d2b713aa1a4580ef0146eab56d6bf2dc7ffec6ca68c8f477b334b9ac5034942c6cffb63ecfc6c51b90469466a3842b683b692ec"
+
+[update]
+[update.modrinth]
+mod-id = "LCO8KZvC"
+version = "UollMwVJ"

@@ -1,0 +1,13 @@
+name = "Reaping"
+filename = "reaping-fabric-3.1.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d58ee7942c71a58f0715cdd52a2a12186455cafb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5479189
+project-id = 485532

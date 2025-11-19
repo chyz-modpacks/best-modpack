@@ -1,0 +1,13 @@
+name = "Namer"
+filename = "namer-1.21-1.21.2_1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EsptMT1V/versions/isjhDCWN/namer-1.21-1.21.2_1.1.0.jar"
+hash-format = "sha512"
+hash = "1fe71f6217be45c20b2c89c7fefda2809d0f5f53976ea2e8310a4db1f7a3c29e0c65fe42ab3ce68af5ecdd67d4c31b7ffc5cc13052ad91b31ed1e1b479eae8c4"
+
+[update]
+[update.modrinth]
+mod-id = "EsptMT1V"
+version = "isjhDCWN"

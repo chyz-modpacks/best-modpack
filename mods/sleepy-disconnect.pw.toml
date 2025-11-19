@@ -1,0 +1,13 @@
+name = "Sleepy Disconnect"
+filename = "sleepy-disconnect-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Jn0OSY0/versions/rZoxNZpm/sleepy-disconnect-1.2.1.jar"
+hash-format = "sha512"
+hash = "bc1bfdfb6ac4b44f5fa1b7969522968b55ab325aa8c4fb8f09a8b498b40c4dfb721c78666e70b3b634cd250a0171e37f5d0a53101f9dd4a37e3bde445a19ca2f"
+
+[update]
+[update.modrinth]
+mod-id = "4Jn0OSY0"
+version = "rZoxNZpm"

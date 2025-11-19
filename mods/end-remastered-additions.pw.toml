@@ -1,0 +1,13 @@
+name = "End Remastered Additions"
+filename = "endrem_additions-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z3QkIKOR/versions/7BMfkwQj/endrem_additions-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "33750ff96c0011d7118b751ea6c1015fc63712389cee8ceb223b67382415ff13395bea917d04557f8cccb6f88d228d575bc0dd3fdcc6557c15ff1ab09c365aa3"
+
+[update]
+[update.modrinth]
+mod-id = "z3QkIKOR"
+version = "7BMfkwQj"

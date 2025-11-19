@@ -1,0 +1,13 @@
+name = "Remorphed"
+filename = "remorphed-4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8aeV5uJW/versions/XDK1R9x8/remorphed-4.2.jar"
+hash-format = "sha512"
+hash = "bd0155c0f342f1b2b635be79945e637fa1906e6cd4a85c6d0e1c8d9377efec7e980b9df9edcb80e61750c1b657222a7f1797c23952956bde29d4291aa0d777f2"
+
+[update]
+[update.modrinth]
+mod-id = "8aeV5uJW"
+version = "XDK1R9x8"

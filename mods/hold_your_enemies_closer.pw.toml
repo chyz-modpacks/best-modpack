@@ -1,0 +1,13 @@
+name = "Hold Your Enemies Closer"
+filename = "hold_your_enemies_closer-fabric-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k8JThPlL/versions/ICDL3ivK/hold_your_enemies_closer-fabric-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "84ce05726c66cbe4d50847914a57549cc77e7dd3bf64ee978a86252f68936440881211b3a4d2de809ad062da7dd6ba9ecdcfc4d58884e90b225414524e422178"
+
+[update]
+[update.modrinth]
+mod-id = "k8JThPlL"
+version = "ICDL3ivK"
