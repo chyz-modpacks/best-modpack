@@ -29,10 +29,6 @@ file = "config/cumulus_menus-client.toml"
 hash = "7157329186eefae13d34a2a5e5567b7ef9156b2d7f6608adcec91eddb290205d"
 
 [[files]]
-file = "config/dashloader.json"
-hash = "fed14345aa279074d7eea2b47d3b6e9419cb7e7da03a79b27cca4a344b45f197"
-
-[[files]]
 file = "config/iceandfire/iaf-client.json"
 hash = "4e3329aa1095d126180a7965ff404f25c104372efbab6c6d9d348909fec0932a"
 
