@@ -617,9 +617,8 @@ hash = "eb0ef30e04620166701768b62a22ad0959f4d5ab38aa7962aad46562be18667e"
 metafile = true
 
 [[files]]
-file = "mods/shield_surf.pw.toml"
-hash = "bd52f9658674941c2748dc153a0e3a24ffc6fb0e81ea3b3491b96d570bae1b28"
-metafile = true
+file = "mods/shield_surf-1.0.2+1.21.1.jar"
+hash = "3fcf18077591ba57dfcb1e6c172adc323d7a30d070a03c4b7300c94ee226e021"
 
 [[files]]
 file = "mods/simple-conveyor-belts.pw.toml"
