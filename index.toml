@@ -258,11 +258,6 @@ hash = "28f032b50e4b9f555505882ef7c93fc6c2196c764990e652db742d90f46f9636"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "d5cf6e8f1f0963a1b0bbaf54f3afe9a429706572f47a86c30fa4f23b72d04594"
-metafile = true
-
-[[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "d9232b8eb42babcfc67b71013ab377570ef0ae350befd46bae90e7514f1a97f2"
 metafile = true
