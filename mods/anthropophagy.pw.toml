@@ -1,0 +1,13 @@
+name = "Anthropophagy"
+filename = "anthropophagy-1.21-r1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P1m6U6IT/versions/elYzduyw/anthropophagy-1.21-r1.jar"
+hash-format = "sha512"
+hash = "257733109b84638fc0a4e1fd659c4fdbdae12124d372a826900c777cd33fbc6f6844119f2eac21c327a690ffc98b80dc954d7f5c0b9915d345c9d6a8f1332779"
+
+[update]
+[update.modrinth]
+mod-id = "P1m6U6IT"
+version = "elYzduyw"

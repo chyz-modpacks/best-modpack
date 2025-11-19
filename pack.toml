@@ -1,0 +1,13 @@
+name = "Best Modpack"
+author = "chyzman"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "05dbf9104ca1db6519f53bb424da63ed7b96aa78e0b5c65bd990923e87df0c36"
+
+[versions]
+fabric = "0.18.0"
+minecraft = "1.21.1"

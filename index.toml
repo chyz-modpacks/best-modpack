@@ -1,0 +1,211 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
+metafile = true
+
+[[files]]
+file = "mods/advanced-networking.pw.toml"
+hash = "5000fd77a7eabd1e46e7b60a1a2f9822cbd74773374c8ca877933bc676ca58ff"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.pw.toml"
+hash = "b83be649099ba1f38968a9d331acbfb36e6a45863c290a0ddc8f55b010d74422"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "e71c04679ff75573cd8ef1003eb167830f794b8979f2bdd3c99d28793f2918b0"
+metafile = true
+
+[[files]]
+file = "mods/affinity.pw.toml"
+hash = "a7fa760bda4e3379db6f45edd16687709254bccab7b7aedbcbcf6ee53fad6404"
+metafile = true
+
+[[files]]
+file = "mods/alchimiae-magicae.pw.toml"
+hash = "9551c7c9e0b1bbef078cd61b8cc292df93510e99d107228259203b5086c17f37"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "2adf518c92809d9a8cb8c1bbb8f40f8d631a5702ccbcc4ee617a9365dcf48a4e"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "bc649f0960b84625957f2f81b3db0ddbe0b0cca0efb3169d54382916c5f062ea"
+metafile = true
+
+[[files]]
+file = "mods/animated-doors.pw.toml"
+hash = "432ba44ef8400f9bb2b39f488e15052ef64148c401e053cf0269d70c5efd42fa"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
+metafile = true
+
+[[files]]
+file = "mods/anshar.pw.toml"
+hash = "44fca8220044a07ba7df6259d4e4763bf024305977483cb34807a39d8a2ba4bb"
+metafile = true
+
+[[files]]
+file = "mods/anthropophagy.pw.toml"
+hash = "aaa871c63240e610c50b74b2e7a44a71089f1dbe560dd4f8658ec4460d797a25"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "6adae9e2eefad5cf4d1729084860ec6877057dc0a1491d3ce243d7b14fb3d405"
+metafile = true
+
+[[files]]
+file = "mods/aurae.pw.toml"
+hash = "000b5ebd56226ec46fe8c62a49549e66c1bcb7cd2c8d78463a413358c4b8f3e5"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "1a0300c98f7f02ef0d3aa3c44c919dc17bca2123fb7042f7371166e1a002c1c4"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "810180ed5033783c6f0a656de8b0d915940f34a7a0075fe76114ffc02fce7ef7"
+metafile = true
+
+[[files]]
+file = "mods/blocky-bass.pw.toml"
+hash = "cd6dbfa58246fb0efdfc0d76cf09c81fcc862ab271d30c323b1c3a14657b254b"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
+metafile = true
+
+[[files]]
+file = "mods/cerulean.pw.toml"
+hash = "a0d25d17465d8883262f9e0645b9876de0af1aa20229db53d3ad639a2c20be2c"
+metafile = true
+
+[[files]]
+file = "mods/chested-companions.pw.toml"
+hash = "0c966fa95794e43d0c2363a99682d62c234ccecc82572e66ce013a6dfe3e75c8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/clutter.pw.toml"
+hash = "cb161d03e71e6cab17bcca9d39d894b0d0d855d84632b05b809397d44ff4ac08"
+metafile = true
+
+[[files]]
+file = "mods/colossal-chests.pw.toml"
+hash = "8968c07c99085bb8686faa1673276989bbe431bedcacce9a864bd5aed3ed91fa"
+metafile = true
+
+[[files]]
+file = "mods/companions-mod.pw.toml"
+hash = "40881a4e298b5995f1951c7f19a7749dc4c78a2f8eaf3da592b7be966cf9d606"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "4c3179c71934c8e8b020b6b5cef74f05fcf0e18ca48f016d5ecc979cd28e41ea"
+metafile = true
+
+[[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "1d912783e5a27dfd863ee3228ca0f907631b7ff30c0ea6fc4764968ca1e3341a"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "28f032b50e4b9f555505882ef7c93fc6c2196c764990e652db742d90f46f9636"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "aadec9b6185c7fd1a649d9242f3153e209dfcf170704d002938c1615b50f1efa"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "f8c2c1034dd4fc6437d8670f2301eda90ce70b66de035afa5bb9ee426d3fc34f"
+metafile = true
+
+[[files]]
+file = "mods/nodeflow.pw.toml"
+hash = "77a2a78c3cd017a842e002aa38175134c91f0b08068e55f345efedb865e485d2"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/unfocused.pw.toml"
+hash = "7644685760edf5c3ff9fcdb26b55c55a314756068ec9d80571ced00a1e464892"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-door.pw.toml"
+hash = "031a54437d0ac582056ff190637d37530b33f0e7e3f0478b4391b2df8d7b0fb2"
+metafile = true
