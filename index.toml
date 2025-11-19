@@ -124,6 +124,11 @@ hash = "6adae9e2eefad5cf4d1729084860ec6877057dc0a1491d3ce243d7b14fb3d405"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
+metafile = true
+
+[[files]]
 file = "mods/aurae.pw.toml"
 hash = "000b5ebd56226ec46fe8c62a49549e66c1bcb7cd2c8d78463a413358c4b8f3e5"
 metafile = true
@@ -316,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/female-gender.pw.toml"
 hash = "bba8e3c0aacfdce33ff9eaf796d3b977e00169fb826fac206777316ab9a7f73c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
@@ -544,6 +554,11 @@ hash = "383865ec0829653cedb4b21eb88643ea7f292e3ac5447ce70fe8a944137e1ba6"
 [[files]]
 file = "mods/omnicrossbow.pw.toml"
 hash = "e599380cf589759cbfedb5d1b77e7c91710efdd262d4b3f7d8e6ba7ee6db9455"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "eda50091c6726855de7a3c08259a83282f65b8845b26ea8c2f824b2ad5f0d599"
 metafile = true
 
 [[files]]
