@@ -144,11 +144,6 @@ hash = "000b5ebd56226ec46fe8c62a49549e66c1bcb7cd2c8d78463a413358c4b8f3e5"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "ddc951666b9b867b0ff7671865a33f15adb5331f3d7c8bc179e0ec86795e020f"
 metafile = true
@@ -832,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "eeaa063034a4c98cf7387245b3c628b020fcb0bfece466abb816576bbb0edae7"
 metafile = true
 
 [[files]]
