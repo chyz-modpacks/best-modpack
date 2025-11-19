@@ -164,6 +164,11 @@ hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "a422ef6a7f82a953641937ef746ee775788d91a219794fc0d4563bbd5c22c947"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
@@ -772,3 +777,7 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "9f41ee0890fae453ba696cc06c05f5c4f04936f7e0812f358f4ee27b7090a418"
+
+[[files]]
+file = "update.bat"
+hash = "df2d7cefec60f8b4326392e03af86a10c61653d8d0592ff54e432e72cd718a3a"
