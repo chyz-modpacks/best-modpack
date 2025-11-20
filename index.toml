@@ -701,11 +701,6 @@ hash = "f83fa6c1a594a6090f33d621904df64d84a5d0da7069db518767a7f251c7af49"
 metafile = true
 
 [[files]]
-file = "mods/sleepy-disconnect.pw.toml"
-hash = "725386df0945623caea6aaba522ceb52d2d3cb36e9c1a2ae7b27dc6bbb9e0dec"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
