@@ -57,6 +57,10 @@ file = "config/pingwheel.json"
 hash = "08f7c00e4846c684612f58cff1cd4225dfa6a7e1e91f7d24ed723090693ce514"
 
 [[files]]
+file = "config/player-locator-plus.toml"
+hash = "1ab2e7ff78b231fa4044dd02bfd9ab1f8ef696c780a1a2822c69d7408a1dfd7a"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
