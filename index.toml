@@ -57,10 +57,6 @@ file = "config/pingwheel.json"
 hash = "08f7c00e4846c684612f58cff1cd4225dfa6a7e1e91f7d24ed723090693ce514"
 
 [[files]]
-file = "config/watut-server.toml"
-hash = "938874e6dc3df44fb830075180bfebf30199fe903999ee87d3ddc9894a451503"
-
-[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
