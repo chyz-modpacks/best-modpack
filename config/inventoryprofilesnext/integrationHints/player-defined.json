@@ -1,0 +1,19 @@
+{
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -52,
+                "bottom": -43
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -40,
+                "bottom": -55
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -28,
+                "bottom": -67
+            }
+        }
+    }
+}

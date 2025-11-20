@@ -33,6 +33,18 @@ file = "config/iceandfire/iaf-client.json"
 hash = "4e3329aa1095d126180a7965ff404f25c104372efbab6c6d9d348909fec0932a"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "6ece8bd612206f9a3a1743ded8b73b8f4b2234c13e69faefe0a0c92acd42e024"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "8c910da84a6ae50733842cb8e0550e2a333b84d6b4f90af9571b114da530263f"
+
+[[files]]
 file = "config/mermod-server.toml"
 hash = "df24bc0e632958072e64a89e0251c4e30bb7ecfe09574745bbe7beb3b9ec3f1b"
 
