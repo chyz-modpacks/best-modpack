@@ -594,6 +594,11 @@ hash = "7d5af9f25bc04dd33ec6e55983f7c660d0802461ecad3b5a820dd05dfcef2f70"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "fa28010fe3ba32b1f3e9aed4c432c359ebc54cfbf03196961c66461597f4188c"
+metafile = true
+
+[[files]]
 file = "mods/ok-boomer-0.1.4+1.21.jar"
 hash = "383865ec0829653cedb4b21eb88643ea7f292e3ac5447ce70fe8a944137e1ba6"
 
