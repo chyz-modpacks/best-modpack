@@ -464,11 +464,6 @@ hash = "664035ab6b81584cc42c158d4246a0888e42e41a1ad66c2985694392fd192b86"
 metafile = true
 
 [[files]]
-file = "mods/ismah.pw.toml"
-hash = "586ede84dc1dcf0f142bd53b723bc55423b506f5b2fdf5f09b611986dc531e99"
-metafile = true
-
-[[files]]
 file = "mods/its-as-shrimple-as-that.pw.toml"
 hash = "615c9931c427144a54bfb13105e1a0cf9d64c4f7bb632969af890d9f890767fa"
 metafile = true
