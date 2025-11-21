@@ -83,6 +83,11 @@ hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
 
 [[files]]
+file = "mods/additional-placements-fabric.pw.toml"
+hash = "75a93c3274d09ff7f6456c7bfa35a4bdd53faee235be6cb28ebdf1cb0966a4cd"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "977a19edbdb8cb2cd58449a64e3bd4caca780bb2b670ef843886198ae5766b7f"
 metafile = true
@@ -120,11 +125,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "d4838d91cd7747816ade0f2f4a46c701a53c3ef84cb278ec24e8f6fb828a85c3"
-metafile = true
-
-[[files]]
-file = "mods/animated-doors.pw.toml"
-hash = "432ba44ef8400f9bb2b39f488e15052ef64148c401e053cf0269d70c5efd42fa"
 metafile = true
 
 [[files]]
@@ -230,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "a422ef6a7f82a953641937ef746ee775788d91a219794fc0d4563bbd5c22c947"
+metafile = true
+
+[[files]]
+file = "mods/burning.pw.toml"
+hash = "1763207e628dd2d86f0f5370e55430af34254f3dbb5c1764eef2445641aa1940"
 metafile = true
 
 [[files]]
@@ -396,6 +401,11 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/fancy-door-animations.pw.toml"
+hash = "bf31237265288df10e5629d6a67a447723eb68c20351e51ce149d6218a27e7f2"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "debc633d962665af2873b7e4c74a5bd8da18d6a883971e73b9039f9612f457b7"
 metafile = true
@@ -473,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/headpat.pw.toml"
 hash = "476cee1d0c5080061c4cc609f692028b118f7084e22dfed8b8f709550465cffc"
+metafile = true
+
+[[files]]
+file = "mods/heater.pw.toml"
+hash = "d8f3d3dab18b4345ed8a5cf35034d897ae7448424821c994e9ad754e0e1d42cb"
 metafile = true
 
 [[files]]
@@ -599,11 +614,6 @@ hash = "570c82bcd098f71f8bbe1f979f5d48167dcfa9b18672603dee2affd21e9d3eb5"
 metafile = true
 
 [[files]]
-file = "mods/mining-quakes.pw.toml"
-hash = "a99c3a70ae024a506fbd9aaf73a0336e9ede03cbc549bea00af2a13be3fb0048"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "edde86d78cb403fbe13d3d0008cd94fbafcef5dfeb91874da016d6a796b446de"
 metafile = true
@@ -621,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "f8c2c1034dd4fc6437d8670f2301eda90ce70b66de035afa5bb9ee426d3fc34f"
+metafile = true
+
+[[files]]
+file = "mods/multi-mine.pw.toml"
+hash = "60dd6c8d17501b7d2532ad48a0640645a3906ccc26d318e28706f0cc442a47c2"
 metafile = true
 
 [[files]]
@@ -943,11 +958,6 @@ metafile = true
 [[files]]
 file = "mods/xxl-packets.pw.toml"
 hash = "eeaa063034a4c98cf7387245b3c628b020fcb0bfece466abb816576bbb0edae7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/animated-door.pw.toml"
-hash = "031a54437d0ac582056ff190637d37530b33f0e7e3f0478b4391b2df8d7b0fb2"
 metafile = true
 
 [[files]]

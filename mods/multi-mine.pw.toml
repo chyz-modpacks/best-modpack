@@ -1,0 +1,13 @@
+name = "Multi Mine"
+filename = "MultiMine-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJ90SEuf/versions/dJyifsIQ/MultiMine-fabric-1.2.0.jar"
+hash-format = "sha512"
+hash = "af0dbecfa5bfea17b82efd81b932aef5f904b319e6cb4c420d0b5463e19c302dd697c7f4ceb345e7c42621f37004e9abced4a589ba9524ae03701f9e934b6dfd"
+
+[update]
+[update.modrinth]
+mod-id = "fJ90SEuf"
+version = "dJyifsIQ"
