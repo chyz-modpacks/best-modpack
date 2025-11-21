@@ -57,6 +57,10 @@ file = "config/mermod-server.toml"
 hash = "df24bc0e632958072e64a89e0251c4e30bb7ecfe09574745bbe7beb3b9ec3f1b"
 
 [[files]]
+file = "config/mutantmonsters-common.toml"
+hash = "a6801af259f6bf1234224928be6173fd7bbd8690c5266fd9e9b28d80b46ed882"
+
+[[files]]
 file = "config/ok-boomer.json5"
 hash = "bb1af9a286ad7fb9634e64965d799656676032fad3f005e0e51c6be0f315a815"
 
@@ -257,8 +261,18 @@ hash = "0c966fa95794e43d0c2363a99682d62c234ccecc82572e66ce013a6dfe3e75c8"
 metafile = true
 
 [[files]]
+file = "mods/chiseled-enchanting.pw.toml"
+hash = "859f9c7127909fba689fdc52e07a88e756b57fdf6c142f9c8e37b186cd618caa"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
+metafile = true
+
+[[files]]
+file = "mods/classic-pipes.pw.toml"
+hash = "f5ea8c2039f490574c74d4f2578204a45ccb967a6afb9129abcaa4af32ab4190"
 metafile = true
 
 [[files]]
@@ -278,6 +292,11 @@ hash = "700b92157a18204ece426c04022adc29d25273608fc8f0ec2b703cef7743e04a"
 [[files]]
 file = "mods/colossal-chests.pw.toml"
 hash = "8968c07c99085bb8686faa1673276989bbe431bedcacce9a864bd5aed3ed91fa"
+metafile = true
+
+[[files]]
+file = "mods/combat-maids.pw.toml"
+hash = "5ee89d6c6124d73e1438544b770e14e36fe387b2d4692d70e8b758fbb54af7c3"
 metafile = true
 
 [[files]]
@@ -353,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "e7a682a577780a52963a998f6941c13cbd75455a65368e9b665c56efca37cbb6"
+metafile = true
+
+[[files]]
+file = "mods/eat-bottle.pw.toml"
+hash = "3cce22fb3d9b2526f58da86faaee1c5cec47e5221a942563c1642ca660e2ea9a"
 metafile = true
 
 [[files]]
@@ -715,6 +739,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/planetarium.pw.toml"
+hash = "608367c3b2d30b6e42bac96f7239905822510a90a35a675b0a1748045cd1b79b"
 metafile = true
 
 [[files]]

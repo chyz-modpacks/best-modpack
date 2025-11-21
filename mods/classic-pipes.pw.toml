@@ -1,0 +1,13 @@
+name = "Classic Pipes"
+filename = "classicpipes-fabric-1.21.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xX5VOqpH/versions/fpVjd6lb/classicpipes-fabric-1.21.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "cd2cb18db7d266e1566ab93e22a51c79d61a5f2c5988ea3ab0c98e9d36d216dbdff8c4e5660ab3050919092aa84152df6a8b8d61b0925eb79a88d7c9a4dd82ed"
+
+[update]
+[update.modrinth]
+mod-id = "xX5VOqpH"
+version = "fpVjd6lb"

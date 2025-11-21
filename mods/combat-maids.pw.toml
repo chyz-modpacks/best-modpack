@@ -1,0 +1,13 @@
+name = "Combat Maids"
+filename = "Combat-Maid-Mod-1.21.1-v1.0.3-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K3EbWchE/versions/se6BaE4n/Combat-Maid-Mod-1.21.1-v1.0.3-alpha.jar"
+hash-format = "sha512"
+hash = "1b2a73a8687d68c891c4189f0531769e09d4b071ccb7291e248fe5aae8d81eabef5ee637716fe22c91775ffd0a403944df0fe494480c247e7c044e3ef176ea9c"
+
+[update]
+[update.modrinth]
+mod-id = "K3EbWchE"
+version = "se6BaE4n"

@@ -1,0 +1,13 @@
+name = "Eat Bottle"
+filename = "eatbottle-1.0.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BGgyoibb/versions/6MUkm0Dh/eatbottle-1.0.1%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "1ad023ae4641e2507ad7f59ad7b477501c5460d4c1674b43e9c04b0e1f344fe79560fe779eecfb934d3049e9484902aa9feafc4f21ea1002dc62f8aa80513b35"
+
+[update]
+[update.modrinth]
+mod-id = "BGgyoibb"
+version = "6MUkm0Dh"
