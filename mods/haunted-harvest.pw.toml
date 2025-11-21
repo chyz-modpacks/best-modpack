@@ -1,0 +1,13 @@
+name = "Haunted Harvest"
+filename = "hauntedharvest-1.21-3.3.6-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a378ICDH/versions/ffuMWwBF/hauntedharvest-1.21-3.3.6-fabric.jar"
+hash-format = "sha512"
+hash = "d9f918e517dfb261edaeac6f53c966cae4ad6acb4d557c410239f87d6ff2c8fd96a404f76a1573b9e6c167db7aab81ffe7abb3bd9874b30c73604f6032dc38a9"
+
+[update]
+[update.modrinth]
+mod-id = "a378ICDH"
+version = "ffuMWwBF"

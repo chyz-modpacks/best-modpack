@@ -1,0 +1,13 @@
+name = "AvaritiaNeo"
+filename = "AvaritiaNeo-Fabric-1.21-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j5gjLUvf/versions/PUn13u8t/AvaritiaNeo-Fabric-1.21-1.1.3.jar"
+hash-format = "sha512"
+hash = "28079802ec7839dde4cfc75d21bdfd064a77e95c1119de95f3ee1db4f7be77f89fab1ee35b7c03b030fd5bbc970855a52fb7bb7911eb545b5c72b4be40beaa66"
+
+[update]
+[update.modrinth]
+mod-id = "j5gjLUvf"
+version = "PUn13u8t"
