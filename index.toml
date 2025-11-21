@@ -907,6 +907,11 @@ hash = "88f3573b6da151f5fd7e38679cd338e1a2be9cf7bb90716043381b453b84ab4d"
 metafile = true
 
 [[files]]
+file = "mods/wheelbarrow.pw.toml"
+hash = "5c0d73397951bca2665230ae9b591a34869b9798f47f0f44f36ac4afe24ae30c"
+metafile = true
+
+[[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "3fefc12166c170f5a701e93067aedba80ae033303afbc4f15d90b09aa4c05382"
 metafile = true
