@@ -634,11 +634,6 @@ hash = "f8c2c1034dd4fc6437d8670f2301eda90ce70b66de035afa5bb9ee426d3fc34f"
 metafile = true
 
 [[files]]
-file = "mods/multi-mine.pw.toml"
-hash = "60dd6c8d17501b7d2532ad48a0640645a3906ccc26d318e28706f0cc442a47c2"
-metafile = true
-
-[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "5dc69d7e3b51af646f3506007cc0f2b98f587787959f959069c5211c0e5b6574"
 metafile = true
