@@ -247,6 +247,10 @@ hash = "cb161d03e71e6cab17bcca9d39d894b0d0d855d84632b05b809397d44ff4ac08"
 metafile = true
 
 [[files]]
+file = "mods/code_name_omniscient-1.0.0.jar"
+hash = "700b92157a18204ece426c04022adc29d25273608fc8f0ec2b703cef7743e04a"
+
+[[files]]
 file = "mods/colossal-chests.pw.toml"
 hash = "8968c07c99085bb8686faa1673276989bbe431bedcacce9a864bd5aed3ed91fa"
 metafile = true
@@ -719,6 +723,11 @@ hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "0b25da65d50ae21fed48187f30a1f402e796bc8b6211f5e6f4910295df624069"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
@@ -760,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/spectral_mod.pw.toml"
 hash = "bc79a280f1833f46d392eebdf4d3c44248cde5dbc91007eae4d431693b250cb9"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "cedb915a00e17a1a277a1036ecebc91a3abf219ff90e81817e43ba499d4d81b7"
 metafile = true
 
 [[files]]
