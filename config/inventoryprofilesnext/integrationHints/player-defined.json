@@ -15,5 +15,101 @@
                 "bottom": -67
             }
         }
+    },
+    "com.tom.storagemod.screen.CraftingTerminalScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 18,
+                "top": -17
+            },
+            "SORT": {
+                "horizontalOffset": 21,
+                "top": -17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20,
+                "top": -17
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 19,
+                "top": -17
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 18
+            }
+        }
+    },
+    "com.tom.storagemod.screen.StorageTerminalScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 18,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 18,
+                "top": -17
+            },
+            "SORT": {
+                "horizontalOffset": 21,
+                "top": -17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20,
+                "top": -17
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 19,
+                "top": -17
+            }
+        }
+    },
+    "org.cyclops.colossalchests.client.gui.container.ContainerScreenColossalChest": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 5,
+                "bottom": -42
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 18
+            },
+            "SORT": {
+                "horizontalOffset": 18
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 18
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 18
+            }
+        }
+    },
+    "fuzs.easymagic.client.gui.screens.inventory.ModEnchantmentScreen": {
+        "buttonHints": {
+            "SORT": {
+                "bottom": -1
+            },
+            "SORT_COLUMNS": {
+                "bottom": -1
+            },
+            "SORT_ROWS": {
+                "bottom": -1
+            }
+        }
+    },
+    "wraith.alloyforgery.client.AlloyForgeScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -2
+            },
+            "SORT": {
+                "horizontalOffset": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -2
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -2
+            }
+        }
     }
 }

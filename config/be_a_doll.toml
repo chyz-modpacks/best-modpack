@@ -1,0 +1,41 @@
+# Set this to false if you do not want your speech inhibited as a doll.
+# Only affects the client's sent messages, not the messages of other players
+# default: true
+useKeysmashing = true
+# Set this to true if you want to read your own messages through the filter.
+# default: false
+readableSelf = true
+# Set this to false if you don't want to read others' messages through the filter.
+# This only affects the check for doll-to-doll communication, not the proximity check.
+# default: true
+alwaysReadableOthers = true
+# If not empty, this will be the pool of letters that your keysmashes consist of.
+# By default, there's a few different options that are selected from based on your UUID.
+# default: 
+letterPoolOverride = ""
+# Controls the percentage of your pool that must have been used in keysmash before letters can repeat
+# The pool must be this % full or less to trigger restock
+# default: 0.13
+restockThreshold = 0.13
+# If true, your letter pool will be chosen from in order instead of randomly.
+# This will also trigger a restock every time the filter processes a non-letter.
+# default: false
+useOrderedSpooling = false
+# Any non-letter characters only have a chance to be included based on a 'clarity' level of your message.
+# This controls the minimum chance that non-letters are included
+# default: 0.31
+baseClarityChance = 0.31
+# The clarity score is what becomes the chance of inclusion when adding a non-letter
+# This chance is calculated as (clarityScore / (1 + keysmash length)) - so the first character starts at (1 + baseClarity)
+# default: 1.0
+startingClarityScore = 1.0
+# When a character is added that is converted to keysmashing, the clarity score is /multiplied/ by this value
+# default: 0.8
+keysmashedMultiplier = 0.8
+# When a character is added that is not converted to keysmashing, this is added to the clarity score
+# default: 1.3
+spokenLoudlyClarity = 1.3
+# When a non-letter is added, this is added to the clarity score
+# (for smileys and symbols and non-english messages, it's probably best to have this at a neutral 1)
+# default: 1.0
+nonletterClarity = 1.0

@@ -25,6 +25,10 @@ file = "config/affinity.json5"
 hash = "82dbf86438dd499568f1962311d46659a0deccb921d3122b79121eaf5bb6df63"
 
 [[files]]
+file = "config/be_a_doll.toml"
+hash = "1b642ca9415a391015e9b0aabba3a3a45b0146fac54f1daa9d801a360790fa4a"
+
+[[files]]
 file = "config/cumulus_menus-client.toml"
 hash = "7157329186eefae13d34a2a5e5567b7ef9156b2d7f6608adcec91eddb290205d"
 
@@ -42,7 +46,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "6ece8bd612206f9a3a1743ded8b73b8f4b2234c13e69faefe0a0c92acd42e024"
+hash = "f153159cce7e45287dbc19d21f4cf3073dc6f88467283045348980f147d11f6f"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -65,6 +69,10 @@ file = "config/player-locator-plus.toml"
 hash = "1ab2e7ff78b231fa4044dd02bfd9ab1f8ef696c780a1a2822c69d7408a1dfd7a"
 
 [[files]]
+file = "config/walkers.json5"
+hash = "60269768debb0b85eed26e9050bdd11559fbb323e46a12b4372af8afb2373f4a"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
@@ -72,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "977a19edbdb8cb2cd58449a64e3bd4caca780bb2b670ef843886198ae5766b7f"
 metafile = true
 
 [[files]]
@@ -165,6 +178,11 @@ hash = "ddc951666b9b867b0ff7671865a33f15adb5331f3d7c8bc179e0ec86795e020f"
 metafile = true
 
 [[files]]
+file = "mods/basic-storage.pw.toml"
+hash = "5722cf42d7d6572af99e06c8a6256958fc2d86ef0e3b66e2929dd4aa2bc56b53"
+metafile = true
+
+[[files]]
 file = "mods/be-a-doll.pw.toml"
 hash = "eebd79086190c89d649313199a2ee58d293226d51acda0a38c8108685d59485b"
 metafile = true
@@ -205,9 +223,8 @@ hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
-file = "mods/cerulean.pw.toml"
-hash = "a0d25d17465d8883262f9e0645b9876de0af1aa20229db53d3ad639a2c20be2c"
-metafile = true
+file = "mods/cerulean-1.1.5-soul-less.jar"
+hash = "a60af071a8fa8aa7f71eac5640f685e3096b7eb685077df3f95acdc5725d2e80"
 
 [[files]]
 file = "mods/chested-companions.pw.toml"
@@ -350,6 +367,11 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "debc633d962665af2873b7e4c74a5bd8da18d6a883971e73b9039f9612f457b7"
+metafile = true
+
+[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "bba8e3c0aacfdce33ff9eaf796d3b977e00169fb826fac206777316ab9a7f73c"
 metafile = true
@@ -475,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "f99d68db548845d3e5cad75d714429ea73deaa5d41d8d3404af8ca4eb74f1457"
+hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
 metafile = true
 
 [[files]]
@@ -553,11 +575,6 @@ hash = "f8c2c1034dd4fc6437d8670f2301eda90ce70b66de035afa5bb9ee426d3fc34f"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
-metafile = true
-
-[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "5dc69d7e3b51af646f3506007cc0f2b98f587787959f959069c5211c0e5b6574"
 metafile = true
@@ -580,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/namer.pw.toml"
 hash = "416ed38dcfc85eb71019b48c344915b03447f134c134e4c5ffc5a3523e613123"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
 
 [[files]]
@@ -694,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
 
 [[files]]
