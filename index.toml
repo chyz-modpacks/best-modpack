@@ -182,11 +182,6 @@ hash = "000b5ebd56226ec46fe8c62a49549e66c1bcb7cd2c8d78463a413358c4b8f3e5"
 metafile = true
 
 [[files]]
-file = "mods/avaritianeo.pw.toml"
-hash = "62af6f5ba090daa5ba5c1ff3db9b01e9b6441532f12e8d9aa87a6f55e0833809"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "ddc951666b9b867b0ff7671865a33f15adb5331f3d7c8bc179e0ec86795e020f"
 metafile = true
@@ -332,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/crafted-core.pw.toml"
 hash = "4b134bf893f9a368518eb9e2aed4f3f79e51d381cf811f9c61a805f6d0733cae"
+metafile = true
+
+[[files]]
+file = "mods/creeper-healing.pw.toml"
+hash = "325eca711fa04bd8b1a9b9dc779c1d6bbb313ce8a354a77402f19c72660d80fc"
 metafile = true
 
 [[files]]
@@ -650,6 +650,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "92d36816a433e62d0548bdb72023c50d2b9b0146ec8c7d1bfb484301f113e44a"
+metafile = true
+
+[[files]]
+file = "mods/monkey-utils.pw.toml"
+hash = "044248a2ec9a9d342300ea8841d56891602d0bd22824d23923248078a22d34cc"
 metafile = true
 
 [[files]]
