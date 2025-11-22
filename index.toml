@@ -102,6 +102,10 @@ hash = "5000fd77a7eabd1e46e7b60a1a2f9822cbd74773374c8ca877933bc676ca58ff"
 metafile = true
 
 [[files]]
+file = "mods/adventurez.json5"
+hash = "afa2367ded89578cba853dff9457ff135b9934f8e8bd782bb3bfabeff142c0bc"
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "b83be649099ba1f38968a9d331acbfb36e6a45863c290a0ddc8f55b010d74422"
 metafile = true
@@ -462,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "26d58b7f56a90ca889100191dc45705827c0a20ad08771f641e3d4ab42fd4a1d"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "5b771d1e87b611d05dc4e83e50bd3e9c6578bb16c99f49d69a656838d9cf7d21"
 metafile = true
 
 [[files]]
@@ -992,6 +1001,11 @@ metafile = true
 [[files]]
 file = "mods/xxl-packets.pw.toml"
 hash = "eeaa063034a4c98cf7387245b3c628b020fcb0bfece466abb816576bbb0edae7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
 metafile = true
 
 [[files]]
