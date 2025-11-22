@@ -1,0 +1,13 @@
+name = "Haunt Furnace"
+filename = "hauntfurnace-fabric-0.5.8-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G05u0Ety/versions/W2vW6EN6/hauntfurnace-fabric-0.5.8-1.21.1.jar"
+hash-format = "sha512"
+hash = "ffb869bde0917f1d3278dea56cad4b7a1289b7789ca1a8161ad158d09f953f740da5e3e319d3384243f9ad788b6f67603a42ae69cbd45dfda11e53c419398d46"
+
+[update]
+[update.modrinth]
+mod-id = "G05u0Ety"
+version = "W2vW6EN6"

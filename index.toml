@@ -216,6 +216,11 @@ hash = "6ad56a9580061e6d287ba30806d62d5452caaff8cb0fb655748fbd0599017cc2"
 metafile = true
 
 [[files]]
+file = "mods/blockus.pw.toml"
+hash = "9215ff2d8210dbea85c4e1139d566bd504bac50cb8e0396e7475079cb3270bd7"
+metafile = true
+
+[[files]]
 file = "mods/blocky-bass.pw.toml"
 hash = "cd6dbfa58246fb0efdfc0d76cf09c81fcc862ab271d30c323b1c3a14657b254b"
 metafile = true
@@ -509,6 +514,11 @@ hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
+file = "mods/haunt-furnace.pw.toml"
+hash = "7f5d9fc8a5a0402b77104f3c1fbbede360ea4f4436e4add8b08936994871607d"
+metafile = true
+
+[[files]]
 file = "mods/haunted-harvest.pw.toml"
 hash = "8a972a4b1ef3b9ad2cc0082272555a0b8d939bda538e9c92385c1f2e6476b91b"
 metafile = true
@@ -632,6 +642,11 @@ hash = "2898959cae6f90183ad4c6e0384b4b7cc485ae0ef9474e7765a57d97a2542b05"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "237f61291d7f6cbfe8bafd6fc22657000adc2b8de269061eb81b6eb21d3ea5d1"
+metafile = true
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "fcd62130e02039c9af5789a548fc1c0fc00e0ba4e26ed4bc020c10e69313d25c"
 metafile = true
@@ -639,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/mermod.pw.toml"
 hash = "ad40ee8780147f0600ac1559991acde55b0f35bff282cb26bc3df0b6ec34ae8f"
+metafile = true
+
+[[files]]
+file = "mods/miku-plushies.pw.toml"
+hash = "e8b154b3304db27b2ef01110b270684c7f97c4cf4f653a65a2d0c8c3670b79f2"
 metafile = true
 
 [[files]]
