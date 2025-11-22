@@ -603,8 +603,8 @@ hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
 metafile = true
 
 [[files]]
-file = "mods/jerry-rigged-1.0.6.jar"
-hash = "6700b404bff4c3a8caa16bac57138ce6788bab6d2f03f7cd74cfd6ed53d2f030"
+file = "mods/jerry-rigged-1.0.7.jar"
+hash = "656d8d5bf691eb3730f3142dcbdf2fc38389c8470e735b3e96be36c30dc17e70"
 
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
