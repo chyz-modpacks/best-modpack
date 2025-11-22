@@ -166,6 +166,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/ars-elixirum.pw.toml"
+hash = "252f788cbc4218c4bcafffe6306bf3c04c05ee7bada2348a345c83b3ac9ffc70"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "6adae9e2eefad5cf4d1729084860ec6877057dc0a1491d3ce243d7b14fb3d405"
 metafile = true
