@@ -930,6 +930,10 @@ hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-common.json"
+hash = "131b2d55fcc8967d560141a33284df33b71869a1e6852793599e009fb27cf2f3"
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "6e42988e60a32a17a6bf9d7f7176911fa1d5093d814d35eb0c62c00318f0b341"
 metafile = true
