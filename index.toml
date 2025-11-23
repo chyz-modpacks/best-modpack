@@ -6,7 +6,7 @@ hash = "7edb77b571f2a867592acb74927a9fdbaa3ba70fd9b8d18a2ba5e70739d270d3"
 
 [[files]]
 file = "config/adventurez.json5"
-hash = "afa2367ded89578cba853dff9457ff135b9934f8e8bd782bb3bfabeff142c0bc"
+hash = "a6b55623f912df20d84461ce688de59cf75a975674d43ac213d2d303f694c922"
 
 [[files]]
 file = "config/aether-client.toml"
@@ -49,12 +49,8 @@ file = "config/iceandfire/iaf-common.json"
 hash = "b72ed4db2f0177e7eb77dbbcdb3a1dd49b9cd5c88493feccc31c4db30a7f556d"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "1eeafd735362c9ae91bb2056e0f0e0786596d2d742f6f1e11884dfa7906d753c"
+hash = "508156f10354ef2237b80b7db15bb494b75bc95a21a3338a11ef247e73cf96ed"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"

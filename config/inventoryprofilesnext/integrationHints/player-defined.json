@@ -70,16 +70,20 @@
                 "bottom": -42
             },
             "MOVE_TO_PLAYER": {
-                "horizontalOffset": 18
+                "horizontalOffset": -3,
+                "top": -16
             },
             "SORT": {
-                "horizontalOffset": 18
+                "horizontalOffset": -3,
+                "top": -16
             },
             "SORT_COLUMNS": {
-                "horizontalOffset": 18
+                "horizontalOffset": -3,
+                "top": -16
             },
             "SORT_ROWS": {
-                "horizontalOffset": 18
+                "horizontalOffset": -3,
+                "top": -16
             }
         }
     },
@@ -127,5 +131,11 @@
                 "top": -16
             }
         }
+    },
+    "wraith.fwaystones.screen.WaystoneBlockScreen": {
+        "ignore": true
+    },
+    "wraith.fwaystones.screen.WaystoneBlockScreenHandler": {
+        "ignore": true
     }
 }

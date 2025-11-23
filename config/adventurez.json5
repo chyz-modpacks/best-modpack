@@ -8,7 +8,7 @@
 	"mini_blackstone_golem_spawn_weight": 5,
 	// Chance for spawning when thunder occurs; 1/Value
 	"summoner_thunder_spawn_chance": 4,
-	"blaze_guardian_spawn_weight": 30,
+	"blaze_guardian_spawn_weight": 0,
 	"fungus_spawn_weight": 8,
 	"orc_spawn_weight": 30,
 	"mammoth_spawn_weight": 1,
