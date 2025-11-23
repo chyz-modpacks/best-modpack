@@ -1,0 +1,13 @@
+name = "Multiline Mastery"
+filename = "multilinemastery-0.2.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mVNyUIPX/versions/RkOiM4Hd/multilinemastery-0.2.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "73c8591e923e890dc888367933249316e4c30f08b4160ba1dfd8f3e9f5370ce2edf13976e75632503224a151c2b5b7d91f49595c3f6c7c5dad5ccce965b3e5be"
+
+[update]
+[update.modrinth]
+mod-id = "mVNyUIPX"
+version = "RkOiM4Hd"

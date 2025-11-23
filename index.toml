@@ -721,6 +721,11 @@ hash = "f8c2c1034dd4fc6437d8670f2301eda90ce70b66de035afa5bb9ee426d3fc34f"
 metafile = true
 
 [[files]]
+file = "mods/multiline-mastery.pw.toml"
+hash = "3c90ffed172165bf9d7495eb559b6a5ed66eb20def3204934d6572ab2183bd84"
+metafile = true
+
+[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "5dc69d7e3b51af646f3506007cc0f2b98f587787959f959069c5211c0e5b6574"
 metafile = true
