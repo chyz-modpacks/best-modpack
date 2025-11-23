@@ -45,6 +45,10 @@ file = "config/iceandfire/iaf-client.json"
 hash = "4e3329aa1095d126180a7965ff404f25c104372efbab6c6d9d348909fec0932a"
 
 [[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "b72ed4db2f0177e7eb77dbbcdb3a1dd49b9cd5c88493feccc31c4db30a7f556d"
+
+[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
@@ -426,6 +430,21 @@ metafile = true
 [[files]]
 file = "mods/eternal-starlight.pw.toml"
 hash = "a4c1a460e640533e20d24979163ed8a4ab667efc4bcdf2cd5f9be43056d0280c"
+metafile = true
+
+[[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "82ff099657d3065a7736b4b92b0bcd53b9773c380ffee20809f2f8b66d3ef33a"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "5f5d25d13e3640d0eaaea0a7a00edcb5aa74a4e12c593e8e24bab254f32916d9"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "2b5f19e8d0dde0e603b4df323970429589147eef5d3658ce9f63d4a4d2ace93c"
 metafile = true
 
 [[files]]
