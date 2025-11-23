@@ -413,6 +413,11 @@ hash = "02899d1c6fc7160708c4ab0807b48330a9c6a964ae726fcf740d7739e1b25aaf"
 metafile = true
 
 [[files]]
+file = "mods/ender-moon.pw.toml"
+hash = "91195d83425abdc8ba2ead9159d6570dcf9245f984fcb3692cc0c36f2a14e941"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "389c30cfae2e35405bc8efe5c5e1eb853ab8b3e031d45e889b597c581632d420"
 metafile = true
@@ -787,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/patpat.pw.toml"
 hash = "8ec95c5e86a53707cbc784f779e587a573b2f222c181077d1389bad9b2328a5e"
+metafile = true
+
+[[files]]
+file = "mods/peaceful-moon.pw.toml"
+hash = "591c99370b32a4b8c332d37ac841faf79bdaea70cc9b157c3270a9c2207363fd"
 metafile = true
 
 [[files]]
