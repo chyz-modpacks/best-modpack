@@ -949,6 +949,11 @@ hash = "4c88cb190297734981718c4ff04eef2fa35e8286dfab936ab5f8597aff458dbd"
 metafile = true
 
 [[files]]
+file = "mods/starcaller.pw.toml"
+hash = "866052099c81db542fb4781adf8162635a5f925eda11c21d32d24bfbe35f9d04"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
