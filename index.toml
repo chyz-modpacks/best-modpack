@@ -374,6 +374,11 @@ hash = "d9232b8eb42babcfc67b71013ab377570ef0ae350befd46bae90e7514f1a97f2"
 metafile = true
 
 [[files]]
+file = "mods/dice-rebuild.pw.toml"
+hash = "72969fb4e5331d639dfecf4300386bfa23fb94b63d33ea6f89aa8ef7b3f5fdc8"
+metafile = true
+
+[[files]]
 file = "mods/dontdothat.pw.toml"
 hash = "331f0454f0d8488a34d4ee050c30af5506830eb8ea537889cfd80621a3f8281e"
 metafile = true
@@ -682,6 +687,11 @@ hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
 metafile = true
 
 [[files]]
+file = "mods/marketable-plushies.pw.toml"
+hash = "c9653dac8290a137c824a9483a0f56e28e26759802dcf0513f39ce146b4816cb"
+metafile = true
+
+[[files]]
 file = "mods/mermod.pw.toml"
 hash = "ad40ee8780147f0600ac1559991acde55b0f35bff282cb26bc3df0b6ec34ae8f"
 metafile = true
@@ -699,6 +709,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "edde86d78cb403fbe13d3d0008cd94fbafcef5dfeb91874da016d6a796b446de"
+metafile = true
+
+[[files]]
+file = "mods/moderate-loading-screen.pw.toml"
+hash = "db37c68027116ff4236579cc8777c505d62edaa6d65cba2bbcd6d9684f434d43"
 metafile = true
 
 [[files]]
@@ -888,6 +903,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
+metafile = true
+
+[[files]]
+file = "mods/scriptor-magicae.pw.toml"
+hash = "1f218330eca2e10fc2a856503a3fe1f29dc50d003c6891ada71a979240b7f2d7"
 metafile = true
 
 [[files]]

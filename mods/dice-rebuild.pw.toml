@@ -1,0 +1,13 @@
+name = "Dice Rebuild"
+filename = "dice-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Snp3UETj/versions/HGi2Cdgj/dice-1.1.2.jar"
+hash-format = "sha512"
+hash = "ec31772d6d279a9f0882a1e456666e16524960e53789f35d930d9664fcf213f5e615f111bd0ff073b3d6d12f331ba561614ad1bd1558d3d683051d4c25f32c5a"
+
+[update]
+[update.modrinth]
+mod-id = "Snp3UETj"
+version = "HGi2Cdgj"
