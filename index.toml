@@ -677,6 +677,11 @@ hash = "fcd62130e02039c9af5789a548fc1c0fc00e0ba4e26ed4bc020c10e69313d25c"
 metafile = true
 
 [[files]]
+file = "mods/magic-8-ball.pw.toml"
+hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
+metafile = true
+
+[[files]]
 file = "mods/mermod.pw.toml"
 hash = "ad40ee8780147f0600ac1559991acde55b0f35bff282cb26bc3df0b6ec34ae8f"
 metafile = true
