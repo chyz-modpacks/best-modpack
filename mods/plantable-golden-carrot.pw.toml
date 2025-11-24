@@ -1,0 +1,13 @@
+name = "Plantable Golden Carrot"
+filename = "plantable_golden_carrot-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/awItiLh0/versions/PkNvJFLh/plantable_golden_carrot-1.0.0.jar"
+hash-format = "sha512"
+hash = "7c78c56dfebaa2f315193665edfad80dd14609e5f7f7367e863ed77d96e136256cd871db7753c73f373530f82a7c1502cc6086915a2f83515ecd23a69d15b41a"
+
+[update]
+[update.modrinth]
+mod-id = "awItiLh0"
+version = "PkNvJFLh"

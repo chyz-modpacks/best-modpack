@@ -835,6 +835,11 @@ hash = "608367c3b2d30b6e42bac96f7239905822510a90a35a675b0a1748045cd1b79b"
 metafile = true
 
 [[files]]
+file = "mods/plantable-golden-carrot.pw.toml"
+hash = "3fcb7ea809f9adca4984f04bfa3163e1dec2c1fb98e0aa3e727036cbe322e9e6"
+metafile = true
+
+[[files]]
 file = "mods/player-locator-plus.pw.toml"
 hash = "95f470ffc8438ce15d252e73a959744af3eb699cc3e8458d975b1d20759606ce"
 metafile = true
