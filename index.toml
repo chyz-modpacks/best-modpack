@@ -1024,6 +1024,11 @@ hash = "85d1788a1c878b80479d7684084bfc8bc9ff74c83f9f359c88716cb8416a1c29"
 metafile = true
 
 [[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "1a5056ab4df156bfd41ab7ddad0d0f5e680c6967531c1735e500ea569178fd07"
+metafile = true
+
+[[files]]
 file = "mods/voidz.pw.toml"
 hash = "bded47bc3fe99b3bbec5dd34cf2d432f4d0dfaa048644933dd17347d324b3d5f"
 metafile = true
