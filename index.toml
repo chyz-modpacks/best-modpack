@@ -82,7 +82,7 @@ hash = "131b2d55fcc8967d560141a33284df33b71869a1e6852793599e009fb27cf2f3"
 
 [[files]]
 file = "config/walkers.json5"
-hash = "60269768debb0b85eed26e9050bdd11559fbb323e46a12b4372af8afb2373f4a"
+hash = "862f9705a77a792d25de9a1e45825c286ce5d691dba32f90f2f7ddb9c8309110"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"

@@ -56,7 +56,7 @@
   // If true, unlocking a shape will ignore current second shapes.
   "unlockTimer": 60.0,
   // This allows players to unlock every possible variant per entity type. This must be set to true for the variant menu to be available.
-  "unlockEveryVariant": false,
+  "unlockEveryVariant": true,
   // Configure the Cooldown for the abilities of specified mobs. Take a look at Abilities
   "abilityCooldownMap": {
     "minecraft:blaze": 20,
