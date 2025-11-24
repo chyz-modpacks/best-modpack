@@ -826,11 +826,6 @@ hash = "9c7978a3af54d109b1ae4a035672024d178641df8c553126e405f381d814041a"
 metafile = true
 
 [[files]]
-file = "mods/pneumono_gravestones.pw.toml"
-hash = "3ca867b96ce71321b882606ed97d3c4af8bba5b4886dd71589f29c6e022b152c"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
@@ -1070,6 +1065,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "5be05538347e59b65357ecb31c28c90edd3769309fa864222d7116ccd7e8a446"
 metafile = true
 
 [[files]]
