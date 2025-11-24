@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "9f41ee0890fae453ba696cc06c05f5c4f04936f7e0812f358f4ee27b7090a418"
+hash = "c3c3046ff01c045c88f674322309fe524855524dae05d4ae387cc3d451fba795"
 
 [[files]]
 file = "update.bat"
