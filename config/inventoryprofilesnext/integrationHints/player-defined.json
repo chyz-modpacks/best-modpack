@@ -137,5 +137,8 @@
     },
     "wraith.fwaystones.screen.WaystoneBlockScreenHandler": {
         "ignore": true
+    },
+    "com.tom.storagemod.screen.InventoryConfiguratorScreen": {
+        "playerSideOnly": true
     }
 }

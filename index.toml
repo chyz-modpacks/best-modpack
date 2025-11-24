@@ -50,7 +50,7 @@ hash = "b72ed4db2f0177e7eb77dbbcdb3a1dd49b9cd5c88493feccc31c4db30a7f556d"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "508156f10354ef2237b80b7db15bb494b75bc95a21a3338a11ef247e73cf96ed"
+hash = "e1cdeec4a49b4f899c18c4e2ff69fbe7c5c0d44681bf963030dfd1fed34ba4ea"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
