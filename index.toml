@@ -77,6 +77,10 @@ file = "config/player-locator-plus.toml"
 hash = "1ab2e7ff78b231fa4044dd02bfd9ab1f8ef696c780a1a2822c69d7408a1dfd7a"
 
 [[files]]
+file = "config/supplementaries-common.json"
+hash = "131b2d55fcc8967d560141a33284df33b71869a1e6852793599e009fb27cf2f3"
+
+[[files]]
 file = "config/walkers.json5"
 hash = "60269768debb0b85eed26e9050bdd11559fbb323e46a12b4372af8afb2373f4a"
 
@@ -374,11 +378,6 @@ hash = "d9232b8eb42babcfc67b71013ab377570ef0ae350befd46bae90e7514f1a97f2"
 metafile = true
 
 [[files]]
-file = "mods/dice-rebuild.pw.toml"
-hash = "72969fb4e5331d639dfecf4300386bfa23fb94b63d33ea6f89aa8ef7b3f5fdc8"
-metafile = true
-
-[[files]]
 file = "mods/dontdothat.pw.toml"
 hash = "331f0454f0d8488a34d4ee050c30af5506830eb8ea537889cfd80621a3f8281e"
 metafile = true
@@ -559,11 +558,6 @@ hash = "476cee1d0c5080061c4cc609f692028b118f7084e22dfed8b8f709550465cffc"
 metafile = true
 
 [[files]]
-file = "mods/heater.pw.toml"
-hash = "d8f3d3dab18b4345ed8a5cf35034d897ae7448424821c994e9ad754e0e1d42cb"
-metafile = true
-
-[[files]]
 file = "mods/hold_your_enemies_closer.pw.toml"
 hash = "c1a327583e3aacd467d0aaccb6fc1fae853fd33ad2e53aa58f8952631bac48a7"
 metafile = true
@@ -718,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "dd27444b02535763c3e41b523dfd585a6baadbef797767b70ce4cdaad4e131d9"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -808,6 +802,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "1c86eb0c48eb53d3e6aa704f7c52eb64946b488855f785ab07b0fd3112311288"
 metafile = true
 
 [[files]]
@@ -983,10 +982,6 @@ metafile = true
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
 metafile = true
-
-[[files]]
-file = "mods/supplementaries-common.json"
-hash = "131b2d55fcc8967d560141a33284df33b71869a1e6852793599e009fb27cf2f3"
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
