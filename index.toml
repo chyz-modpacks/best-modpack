@@ -5,6 +5,10 @@ file = "config/WildfireGender/7fa2402a-8fdb-4584-9a9b-33b4c9dcf941-old.json"
 hash = "7edb77b571f2a867592acb74927a9fdbaa3ba70fd9b8d18a2ba5e70739d270d3"
 
 [[files]]
+file = "config/additionalplacements-client.toml"
+hash = "0a38a698e431d7313b6a153da175c0ac610e127ab97ca30907ce87ad9c2f6690"
+
+[[files]]
 file = "config/adventurez.json5"
 hash = "a6b55623f912df20d84461ce688de59cf75a975674d43ac213d2d303f694c922"
 
@@ -170,11 +174,6 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
-file = "mods/ars-elixirum.pw.toml"
-hash = "252f788cbc4218c4bcafffe6306bf3c04c05ee7bada2348a345c83b3ac9ffc70"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "6adae9e2eefad5cf4d1729084860ec6877057dc0a1491d3ce243d7b14fb3d405"
 metafile = true
@@ -201,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-storage.pw.toml"
-hash = "5722cf42d7d6572af99e06c8a6256958fc2d86ef0e3b66e2929dd4aa2bc56b53"
+hash = "9a9f94355ec577afb2d592c761f72b8217234822be37b1dc1610f45091475847"
 metafile = true
 
 [[files]]
@@ -216,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "810180ed5033783c6f0a656de8b0d915940f34a7a0075fe76114ffc02fce7ef7"
+hash = "ddbb4bf26d15027847e52f5b30479470299b9a8c687697309f0535d658b9944b"
 metafile = true
 
 [[files]]
@@ -261,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
+hash = "0c345c80310a4bd58c757e43d6060338a85d34eaffcb674a6e9cbf22ecbc9cb8"
 metafile = true
 
 [[files]]
@@ -323,6 +322,10 @@ hash = "4c3179c71934c8e8b020b6b5cef74f05fcf0e18ca48f016d5ecc979cd28e41ea"
 metafile = true
 
 [[files]]
+file = "mods/conjuring-1.0.30+1.21.jar"
+hash = "edfbbc5e18a8ca5e1f1506fb339b1198b6a84c3a098975256e424e529206af93"
+
+[[files]]
 file = "mods/connected-doors.pw.toml"
 hash = "1d912783e5a27dfd863ee3228ca0f907631b7ff30c0ea6fc4764968ca1e3341a"
 metafile = true
@@ -374,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "d9232b8eb42babcfc67b71013ab377570ef0ae350befd46bae90e7514f1a97f2"
+hash = "56fe38665725e5395991777ad79e63961851d2666880461305b95f71d03fe996"
 metafile = true
 
 [[files]]
@@ -543,11 +546,6 @@ hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
-file = "mods/haunt-furnace.pw.toml"
-hash = "7f5d9fc8a5a0402b77104f3c1fbbede360ea4f4436e4add8b08936994871607d"
-metafile = true
-
-[[files]]
 file = "mods/haunted-harvest.pw.toml"
 hash = "8a972a4b1ef3b9ad2cc0082272555a0b8d939bda538e9c92385c1f2e6476b91b"
 metafile = true
@@ -691,6 +689,11 @@ hash = "ad40ee8780147f0600ac1559991acde55b0f35bff282cb26bc3df0b6ec34ae8f"
 metafile = true
 
 [[files]]
+file = "mods/message-arrows.pw.toml"
+hash = "984c60ec2cc6e3c3af8d76948f858aaa6b8f618a42677548202c2f00aac9a02b"
+metafile = true
+
+[[files]]
 file = "mods/miku-plushies.pw.toml"
 hash = "e8b154b3304db27b2ef01110b270684c7f97c4cf4f653a65a2d0c8c3670b79f2"
 metafile = true
@@ -727,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f8c2c1034dd4fc6437d8670f2301eda90ce70b66de035afa5bb9ee426d3fc34f"
+hash = "c04b43e6c95e18c7310c97e47b3e5bcf65c23180a899a85c97d9fa8f5f773c98"
 metafile = true
 
 [[files]]
