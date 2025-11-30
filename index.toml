@@ -5,10 +5,6 @@ file = "config/WildfireGender/7fa2402a-8fdb-4584-9a9b-33b4c9dcf941-old.json"
 hash = "7edb77b571f2a867592acb74927a9fdbaa3ba70fd9b8d18a2ba5e70739d270d3"
 
 [[files]]
-file = "config/accessories.json5"
-hash = "19719a6bfaee32e0e213f2d977e2390c6b6ca0a6244969c42ac8fd33864cb6a5"
-
-[[files]]
 file = "config/additionalplacements-client.toml"
 hash = "0a38a698e431d7313b6a153da175c0ac610e127ab97ca30907ce87ad9c2f6690"
 
