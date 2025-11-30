@@ -1106,8 +1106,16 @@ hash = "5be05538347e59b65357ecb31c28c90edd3769309fa864222d7116ccd7e8a446"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gloves.zip"
-hash = "147b51df6dd883e55318d7c37764ae50fb8314c3744fcdf72a9e2c610e5330f2"
+file = "resourcepacks/gloves/assets/accessories/lang/en_us.json"
+hash = "158a085f59174bea845a0c36f10ec3dcbd72b075fd5001271b5472db41ebd79f"
+
+[[files]]
+file = "resourcepacks/gloves/assets/accessories/textures/slot/gloves.png"
+hash = "afd53af0ee53ad6e311ad466408f700b47dcd9deaa9ab8e7e3e7f6967c746011"
+
+[[files]]
+file = "resourcepacks/gloves/pack.mcmeta"
+hash = "81377e223ea189b5da8c8ad22321c2b8b7c6cc78faa45e37a70e422a8af42ece"
 
 [[files]]
 file = "resourcepacks/spectral.pw.toml"
