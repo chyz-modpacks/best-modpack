@@ -1118,11 +1118,6 @@ file = "resourcepacks/gloves/pack.mcmeta"
 hash = "81377e223ea189b5da8c8ad22321c2b8b7c6cc78faa45e37a70e422a8af42ece"
 
 [[files]]
-file = "resourcepacks/spectral.pw.toml"
-hash = "63af0d70b552b450a1940ee326c3bbdc2e4e788475bb1fda0e64c86421393413"
-metafile = true
-
-[[files]]
 file = "servers.dat"
 hash = "c3c3046ff01c045c88f674322309fe524855524dae05d4ae387cc3d451fba795"
 
