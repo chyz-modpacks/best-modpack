@@ -140,5 +140,78 @@
     },
     "com.tom.storagemod.screen.InventoryConfiguratorScreen": {
         "playerSideOnly": true
+    },
+    "com.ssblur.scriptor.screen.screen.WritingTableScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": -11
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "top": -16
+            }
+        }
+    },
+    "rearth.oritech.client.ui.UpgradableMachineScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -24
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -5,
+                "top": -15
+            },
+            "SORT": {
+                "horizontalOffset": -5,
+                "top": -15
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -5,
+                "top": -15
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -5,
+                "top": -15
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 1
+            }
+        }
+    },
+    "rearth.oritech.client.ui.RefineryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -19
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -5,
+                "top": -16
+            },
+            "SORT": {
+                "horizontalOffset": -5,
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -5,
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -5,
+                "top": -16
+            },
+            "SHOW_EDITOR": {
+                "top": -1
+            }
+        }
     }
 }
