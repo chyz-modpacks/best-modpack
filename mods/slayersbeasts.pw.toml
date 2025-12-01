@@ -1,0 +1,13 @@
+name = "Slayer's Beasts"
+filename = "slayersbeasts-fabric-1.21.1-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wveGP7nW/versions/cCtb5Yqu/slayersbeasts-fabric-1.21.1-5.2.0-dev.jar"
+hash-format = "sha512"
+hash = "d8073a4c17654a4e46d9926838ca40d61a29f2a49a667374873c39b09104ff4e1a4029256b21c6fb4483b58e811160c1faadb66824ddcc2b598908ce3643a9ee"
+
+[update]
+[update.modrinth]
+mod-id = "wveGP7nW"
+version = "mF6q2GKK"

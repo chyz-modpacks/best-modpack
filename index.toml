@@ -1017,6 +1017,11 @@ hash = "f83fa6c1a594a6090f33d621904df64d84a5d0da7069db518767a7f251c7af49"
 metafile = true
 
 [[files]]
+file = "mods/slayersbeasts.pw.toml"
+hash = "058834f638b90b2870163c9fd1c9c0429414b47e84848bb13e2d9f450f417740"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
