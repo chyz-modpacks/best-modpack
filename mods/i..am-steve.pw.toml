@@ -1,0 +1,13 @@
+name = "I.. am steve"
+filename = "iamsteve-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4sLQcWFH/versions/m1xLLQR1/iamsteve-1.1.0.jar"
+hash-format = "sha512"
+hash = "ea9b08bd5ef617a3790042972ce1e7bc56ced914f6fbe522f360fcd6ec2f8bf4fe316ddb57a9c9a5e78f9617d3b786ed8942624672ffb864222e120c295944ca"
+
+[update]
+[update.modrinth]
+mod-id = "4sLQcWFH"
+version = "m1xLLQR1"

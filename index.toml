@@ -411,6 +411,16 @@ hash = "75c5a41f5694317da93161da1baa34bfc6eb0fd30f5a5b22e7f7c688a253beae"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-bookshelves.pw.toml"
+hash = "537cf398bf67e3390a599f07fa46a595defd7ec5d4d3db508c2ae8046e706688"
+metafile = true
+
+[[files]]
+file = "mods/enchiridion-enchanting.pw.toml"
+hash = "adf0d3679686d03c57fafd965ad5195d2812fe22863479a1ea531fbd1a6663fd"
+metafile = true
+
+[[files]]
 file = "mods/end-remastered-additions.pw.toml"
 hash = "02899d1c6fc7160708c4ab0807b48330a9c6a964ae726fcf740d7739e1b25aaf"
 metafile = true
@@ -457,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
 metafile = true
 
 [[files]]
@@ -568,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/i-want-it-earlier.pw.toml"
 hash = "bfd475d58c0772e56f1d4267763500cd453db0b092abdb95431a66c7ce4127a7"
+metafile = true
+
+[[files]]
+file = "mods/i..am-steve.pw.toml"
+hash = "39d1a2f969c6d780179d2d164e2f696c1b91c28bce9bb144be28a3acd70e94a8"
 metafile = true
 
 [[files]]
@@ -823,6 +838,11 @@ hash = "591c99370b32a4b8c332d37ac841faf79bdaea70cc9b157c3270a9c2207363fd"
 metafile = true
 
 [[files]]
+file = "mods/phantom-tweaks.pw.toml"
+hash = "9bea090d1efa132ea668ef2ca4ddf6997ad3af04ed4341732de0001a100d518f"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "f1746f7abc78b5a149212d295b903cfc232477b1abd9e2050e5d4af3acc530b5"
 metafile = true
@@ -860,6 +880,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+metafile = true
+
+[[files]]
+file = "mods/pronounmc-neo.pw.toml"
+hash = "e1bd68ed2cd4348bcd88f2773cbe56ba06961b4ee7b665eb900ef3b89c1b497f"
 metafile = true
 
 [[files]]
@@ -1059,6 +1084,11 @@ metafile = true
 [[files]]
 file = "mods/wearthat.pw.toml"
 hash = "88f3573b6da151f5fd7e38679cd338e1a2be9cf7bb90716043381b453b84ab4d"
+metafile = true
+
+[[files]]
+file = "mods/weird-wares.pw.toml"
+hash = "6b9dca97f63507a9e5513f66bc7aed91cf27731066ff64090c9463610df2af4a"
 metafile = true
 
 [[files]]

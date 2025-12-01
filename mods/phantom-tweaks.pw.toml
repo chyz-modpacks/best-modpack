@@ -1,0 +1,13 @@
+name = "Phantom Tweaks"
+filename = "phantomstun-1.1.0+mc1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNIfZu0Q/versions/w97Kemjb/phantomstun-1.1.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "3638538626456202947f429336b02117494fec0c074fb867d5f5aee35c0f8c3b3fae5de700d339ca7c52d574f1177f1b4565fe973f367f22925d506b9f3456d1"
+
+[update]
+[update.modrinth]
+mod-id = "sNIfZu0Q"
+version = "w97Kemjb"

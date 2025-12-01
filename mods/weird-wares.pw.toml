@@ -1,0 +1,13 @@
+name = "Weird Wares"
+filename = "weird-wares-0.3.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8YhM0jrV/versions/peHmJ347/weird-wares-0.3.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "36adf2c183097d91a33d42b2e5d3b54f21ae300675d3d898f5aca291a4c815e9ef89b43c7d030218a7f0a03e2733f543c92d54844f25b599291b7938c59db106"
+
+[update]
+[update.modrinth]
+mod-id = "8YhM0jrV"
+version = "peHmJ347"
