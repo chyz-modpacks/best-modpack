@@ -1,0 +1,13 @@
+name = "The Ghast Cow"
+filename = "GhastCow-fabric-1.21.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XDDlmPmY/versions/T37r3xzQ/GhastCow-fabric-1.21.1-6.0.2.jar"
+hash-format = "sha512"
+hash = "79d1fefef61e9be52c99bd4026f79a15998251c28fa3fa1d829a41602889e007ba9e82ec3f012806b15d6cb6e6d16dab8232404cefc429664888313bad654364"
+
+[update]
+[update.modrinth]
+mod-id = "XDDlmPmY"
+version = "T37r3xzQ"

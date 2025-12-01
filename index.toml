@@ -381,6 +381,31 @@ hash = "56fe38665725e5395991777ad79e63961851d2666880461305b95f71d03fe996"
 metafile = true
 
 [[files]]
+file = "mods/deadly-enderdragon.pw.toml"
+hash = "a2121b0a3492739ab53c5a9157e2b6f0444051ec2e729cfc823e11f39dc4f8c9"
+metafile = true
+
+[[files]]
+file = "mods/desert-scourge.pw.toml"
+hash = "94fb6d8139e8c8d22ea9c73b98ae5cc606183e04b5b63929f0c43883c74ec6cb"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "23b3bf6d1931acd2aa6daa5409b274b0d4ec9ec659c01d11454093d8fcd1e342"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "33c41ce33262edd33832faac7b18119f356ab55352e74fc89f58c13a856cabce"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "2bcdcf72c50d93ef010c8895ad1588baf9181612dcbdd05a2a870ff88bc34649"
+metafile = true
+
+[[files]]
 file = "mods/dontdothat.pw.toml"
 hash = "331f0454f0d8488a34d4ee050c30af5506830eb8ea537889cfd80621a3f8281e"
 metafile = true
@@ -403,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "67b6b6a21d347f0e5d443410325a0cfef4a4e93cd6c2a3a5770b53529b00083d"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "ccd5ce47b97cdde28dbea9c3b3d49b5b89229ce5e260311688eb4a41182e5b78"
 metafile = true
 
 [[files]]
@@ -467,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
+hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
 metafile = true
 
 [[files]]
@@ -503,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/forkcart.pw.toml"
+hash = "07156f6d14c72225691bca5976306fb668ad58bc962b7e495474369fb6e563aa"
 metafile = true
 
 [[files]]
@@ -573,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/holdable-frogs.pw.toml"
 hash = "766a61fc61c2e8839da101e26d6bc865b639e80ffabae3ec8211452933cbd87d"
+metafile = true
+
+[[files]]
+file = "mods/horde-moon.pw.toml"
+hash = "c3473577e8a890a3cc354e95afcdc4464f487340804f9debc7e35f7ab1dfd76d"
 metafile = true
 
 [[files]]
@@ -938,6 +978,11 @@ hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
 
 [[files]]
+file = "mods/scabbard.pw.toml"
+hash = "c0f2a797e563526c26797f2ce315faa96218c9460f0abd2a53298c921ec86d3c"
+metafile = true
+
+[[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "1f218330eca2e10fc2a856503a3fe1f29dc50d003c6891ada71a979240b7f2d7"
 metafile = true
@@ -969,6 +1014,11 @@ metafile = true
 [[files]]
 file = "mods/skinshifter.pw.toml"
 hash = "f83fa6c1a594a6090f33d621904df64d84a5d0da7069db518767a7f251c7af49"
+metafile = true
+
+[[files]]
+file = "mods/slayersbeasts.pw.toml"
+hash = "bdb959b77078fe99709f04df2cadbedbf7b1ccf9ea0e3b08a819e323d696112e"
 metafile = true
 
 [[files]]
@@ -1037,8 +1087,18 @@ hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
+file = "mods/the-ghast-cow.pw.toml"
+hash = "fcd8912c1ec7d7e955e6764daf4167924b3505c29aa7ba68665b99184bd8eed4"
+metafile = true
+
+[[files]]
 file = "mods/things.pw.toml"
 hash = "6ee3cd558b1a9837bfe40b4410531f46c5157368dd53c305ebe6a9159b8e26ac"
+metafile = true
+
+[[files]]
+file = "mods/throwabletorch.pw.toml"
+hash = "bb0622531af2b260082f0c4666967a4ca2096680ab9762ccd40d230a27714f1e"
 metafile = true
 
 [[files]]

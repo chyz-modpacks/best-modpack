@@ -1,0 +1,13 @@
+name = "Scabbard"
+filename = "scabbard-fabric-1.21.1-1.2.1-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cHkqozkB/versions/axS147j3/scabbard-fabric-1.21.1-1.2.1-dev.jar"
+hash-format = "sha512"
+hash = "7bbf5071aa5d635ea774c9c6fdceca2bb27d291c4828ee825675b889a935c39f441613e98ca0fa86e1ce22e8ad42d9707a229e86a7dc2528d65fa98950c48bbf"
+
+[update]
+[update.modrinth]
+mod-id = "cHkqozkB"
+version = "axS147j3"

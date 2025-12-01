@@ -1,0 +1,13 @@
+name = "Horde Moon"
+filename = "ZombieMoon-1.21.1-fabric-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ir4RqbYg/versions/GbZn2RfU/ZombieMoon-1.21.1-fabric-2.0.1.jar"
+hash-format = "sha512"
+hash = "3000d1aefc870f5c0a8e86871e219b160c23aecf47d3f20cb12bff1cdd8c57474cbcb5d338a93963c7b9bddcd697033c557b56de458f96dd63001b5f6bed6eb5"
+
+[update]
+[update.modrinth]
+mod-id = "ir4RqbYg"
+version = "GbZn2RfU"

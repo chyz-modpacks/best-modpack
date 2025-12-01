@@ -1,0 +1,13 @@
+name = "Deadly Enderdragon"
+filename = "deadlyenderdragon-mc1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B8CP2JhY/versions/VV2s3mZI/deadlyenderdragon-mc1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "14539e73e0926a5029514ee27021492e38fe68ae611f9117913824d740db132706ad40fd53534a377f3cfdf554602682c094abc42a9005d3c2cc37ad09d9b7bb"
+
+[update]
+[update.modrinth]
+mod-id = "B8CP2JhY"
+version = "VV2s3mZI"
