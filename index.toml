@@ -456,11 +456,6 @@ hash = "537cf398bf67e3390a599f07fa46a595defd7ec5d4d3db508c2ae8046e706688"
 metafile = true
 
 [[files]]
-file = "mods/enchiridion.pw.toml"
-hash = "d66725ec715bcdf53f01f84e906ddfb7a8dc3d407e3c943a0d8d3b77d70619f2"
-metafile = true
-
-[[files]]
 file = "mods/end-remastered-additions.pw.toml"
 hash = "02899d1c6fc7160708c4ab0807b48330a9c6a964ae726fcf740d7739e1b25aaf"
 metafile = true
