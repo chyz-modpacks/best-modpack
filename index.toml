@@ -734,6 +734,11 @@ hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
 metafile = true
 
 [[files]]
+file = "mods/magisterium.pw.toml"
+hash = "6e179554272c81788b8674f55f87b0e77dd11c191d6ff66fedc8c7680ec4fbea"
+metafile = true
+
+[[files]]
 file = "mods/marketable-plushies.pw.toml"
 hash = "c9653dac8290a137c824a9483a0f56e28e26759802dcf0513f39ce146b4816cb"
 metafile = true
@@ -1084,11 +1089,6 @@ metafile = true
 [[files]]
 file = "mods/things.pw.toml"
 hash = "6ee3cd558b1a9837bfe40b4410531f46c5157368dd53c305ebe6a9159b8e26ac"
-metafile = true
-
-[[files]]
-file = "mods/throwabletorch.pw.toml"
-hash = "bb0622531af2b260082f0c4666967a4ca2096680ab9762ccd40d230a27714f1e"
 metafile = true
 
 [[files]]
