@@ -456,8 +456,8 @@ hash = "537cf398bf67e3390a599f07fa46a595defd7ec5d4d3db508c2ae8046e706688"
 metafile = true
 
 [[files]]
-file = "mods/enchiridion-enchanting.pw.toml"
-hash = "adf0d3679686d03c57fafd965ad5195d2812fe22863479a1ea531fbd1a6663fd"
+file = "mods/enchiridion.pw.toml"
+hash = "d66725ec715bcdf53f01f84e906ddfb7a8dc3d407e3c943a0d8d3b77d70619f2"
 metafile = true
 
 [[files]]
