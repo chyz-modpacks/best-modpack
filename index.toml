@@ -978,11 +978,6 @@ hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
 
 [[files]]
-file = "mods/scabbard.pw.toml"
-hash = "c0f2a797e563526c26797f2ce315faa96218c9460f0abd2a53298c921ec86d3c"
-metafile = true
-
-[[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "1f218330eca2e10fc2a856503a3fe1f29dc50d003c6891ada71a979240b7f2d7"
 metafile = true
@@ -1018,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/slayersbeasts.pw.toml"
-hash = "058834f638b90b2870163c9fd1c9c0429414b47e84848bb13e2d9f450f417740"
+hash = "5df692a0d386e213e3d63b7baff6e4dacecee04f6adeb83c7e51516abddf0fa8"
 metafile = true
 
 [[files]]
