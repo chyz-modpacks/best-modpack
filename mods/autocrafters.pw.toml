@@ -1,0 +1,13 @@
+name = "Autocrafters"
+filename = "autocrafters-0.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kt0jMecU/versions/C3LM5sGl/autocrafters-0.9.2.jar"
+hash-format = "sha512"
+hash = "fe91f4cc1d070a72e0dd5f04f23cf3303b4817fab7594fcef7a2a03a8463a3894d4ec965c2332678c637d4533f801002133710a4210ea19c5999892a2857aef4"
+
+[update]
+[update.modrinth]
+mod-id = "Kt0jMecU"
+version = "C3LM5sGl"

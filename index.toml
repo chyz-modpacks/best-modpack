@@ -189,6 +189,11 @@ hash = "000b5ebd56226ec46fe8c62a49549e66c1bcb7cd2c8d78463a413358c4b8f3e5"
 metafile = true
 
 [[files]]
+file = "mods/autocrafters.pw.toml"
+hash = "0bba8cd9979298d376868400906aa2e66ef426421bc65b0c900507ac34fbd519"
+metafile = true
+
+[[files]]
 file = "mods/avaritianeo.pw.toml"
 hash = "62af6f5ba090daa5ba5c1ff3db9b01e9b6441532f12e8d9aa87a6f55e0833809"
 metafile = true
@@ -246,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "a422ef6a7f82a953641937ef746ee775788d91a219794fc0d4563bbd5c22c947"
+metafile = true
+
+[[files]]
+file = "mods/bplb.pw.toml"
+hash = "47d97f324ddaad495c562a51fb4be387ee4211da8ca930544a95762b83946db2"
 metafile = true
 
 [[files]]
@@ -905,11 +915,6 @@ metafile = true
 [[files]]
 file = "mods/plantable-golden-carrot.pw.toml"
 hash = "3fcb7ea809f9adca4984f04bfa3163e1dec2c1fb98e0aa3e727036cbe322e9e6"
-metafile = true
-
-[[files]]
-file = "mods/player-locator-plus.pw.toml"
-hash = "95f470ffc8438ce15d252e73a959744af3eb699cc3e8458d975b1d20759606ce"
 metafile = true
 
 [[files]]
