@@ -336,7 +336,7 @@ hash = "4c3179c71934c8e8b020b6b5cef74f05fcf0e18ca48f016d5ecc979cd28e41ea"
 metafile = true
 
 [[files]]
-file = "mods/conjuring-1.0.30+1.21.jar"
+file = "mods/conjuring-1.0.30+1.21+fixed.jar"
 hash = "edfbbc5e18a8ca5e1f1506fb339b1198b6a84c3a098975256e424e529206af93"
 
 [[files]]
