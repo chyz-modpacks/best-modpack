@@ -1227,7 +1227,7 @@ hash = "c3c3046ff01c045c88f674322309fe524855524dae05d4ae387cc3d451fba795"
 
 [[files]]
 file = "update"
-hash = "0a6793c1283f2418a6a081d517ac4e21d158494b9b70203dac414e7a5fb088bc"
+hash = "10ca3f93c80dbffe5f517a67337fdd4459989f49b168a339305ab34f53f517f9"
 
 [[files]]
 file = "update.bat"
