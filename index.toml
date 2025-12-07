@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/conjuring-1.0.30+1.21.jar"
-hash = "ac36d011ac422875eb9d816c3cc127cb6a229afc7713f3cae6441e044bf56162"
+hash = "edfbbc5e18a8ca5e1f1506fb339b1198b6a84c3a098975256e424e529206af93"
 
 [[files]]
 file = "mods/connected-doors.pw.toml"
@@ -838,13 +838,13 @@ hash = "416ed38dcfc85eb71019b48c344915b03447f134c134e4c5ffc5a3523e613123"
 metafile = true
 
 [[files]]
-file = "mods/nightlights.pw.toml"
-hash = "6b63d15284f95807dd5dcf19e6c1d0132cbac508426162d8db775a1c3a6a228d"
+file = "mods/natures-compass.pw.toml"
+hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
+file = "mods/nightlights.pw.toml"
+hash = "6b63d15284f95807dd5dcf19e6c1d0132cbac508426162d8db775a1c3a6a228d"
 metafile = true
 
 [[files]]
@@ -992,6 +992,11 @@ hash = "0b25da65d50ae21fed48187f30a1f402e796bc8b6211f5e6f4910295df624069"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "59749f19cc0fc17b6bcd2cec2f11237890c5650c3e64e79ee4a947a8be793fba"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
@@ -999,11 +1004,6 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "1f218330eca2e10fc2a856503a3fe1f29dc50d003c6891ada71a979240b7f2d7"
-metafile = true
-
-[[files]]
-file = "mods/ribbits.pw.toml"
-hash = "59749f19cc0fc17b6bcd2cec2f11237890c5650c3e64e79ee4a947a8be793fba"
 metafile = true
 
 [[files]]
@@ -1185,11 +1185,6 @@ hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
 metafile = true
@@ -1210,6 +1205,11 @@ hash = "5be05538347e59b65357ecb31c28c90edd3769309fa864222d7116ccd7e8a446"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/gloves/assets/accessories/lang/en_us.json"
 hash = "158a085f59174bea845a0c36f10ec3dcbd72b075fd5001271b5472db41ebd79f"
 
@@ -1227,7 +1227,7 @@ hash = "c3c3046ff01c045c88f674322309fe524855524dae05d4ae387cc3d451fba795"
 
 [[files]]
 file = "update"
-hash = "df2d7cefec60f8b4326392e03af86a10c61653d8d0592ff54e432e72cd718a3a"
+hash = "0a6793c1283f2418a6a081d517ac4e21d158494b9b70203dac414e7a5fb088bc"
 
 [[files]]
 file = "update.bat"
