@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ddc951666b9b867b0ff7671865a33f15adb5331f3d7c8bc179e0ec86795e020f"
+hash = "6e39e7712a94830fbc2bd0b6ec73e03f54de5edfcca85da6e89a0021e9a3bf1a"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/companions-mod.pw.toml"
-hash = "40881a4e298b5995f1951c7f19a7749dc4c78a2f8eaf3da592b7be966cf9d606"
+hash = "9ae9e55bca5ac5afd77c631821889c67a50fe9a5d442f37609cbfd51c34bf56f"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "56fe38665725e5395991777ad79e63961851d2666880461305b95f71d03fe996"
+hash = "508dcb536d732a862ea9e8046861f99e698ecc094025d2299b4b0058fea57ea7"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/eternal-starlight.pw.toml"
-hash = "a4c1a460e640533e20d24979163ed8a4ab667efc4bcdf2cd5f9be43056d0280c"
+hash = "fcc57cd5aa5fe473519ec47343a18b5ebb197cf7cc50e6cb186dbd4273cfde99"
 metafile = true
 
 [[files]]
@@ -551,17 +551,17 @@ metafile = true
 
 [[files]]
 file = "mods/fragmentum.pw.toml"
-hash = "c91c0f8b42692dab1c598a364727e873650d70d644d9a24472ceb1646eee19aa"
+hash = "b39d1ec64d6a41035c3db8b533b83d180bb1dd0b81e9fbf62ef71f4325b7af13"
 metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "26d58b7f56a90ca889100191dc45705827c0a20ad08771f641e3d4ab42fd4a1d"
+hash = "c61df29db3d8f1ddb434daae6dc8943e26a1e0ee548f3266355cd6490b6e9f3d"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "5b771d1e87b611d05dc4e83e50bd3e9c6578bb16c99f49d69a656838d9cf7d21"
+hash = "74851fe1378e23d4c3b3f8d01fc9de99e930c373a83e86e27886cc50bceefed8"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/haunted-harvest.pw.toml"
-hash = "8a972a4b1ef3b9ad2cc0082272555a0b8d939bda538e9c92385c1f2e6476b91b"
+hash = "143f874db358fb32a149e3243d69c3cabe98f6a7ec965c33fd4e354c904f177e"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
-hash = "e1a40f266826d75b25ecc9db9c6d81d5f53bbe90181590548bbf0a524fcf56fd"
+hash = "6df225afe431c7e825a97169090ecff87adb8e7d73901b9acbd34bae6b016cae"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
-hash = "60465cdf2f0e78f81c9a0483855ab73d7cb0904d134300d011222185fc7c90ae"
+hash = "f0e8c7724e986fc18525f5939f2308dd6437493013a0fa076c52335f30fe21eb"
 metafile = true
 
 [[files]]
@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c04b43e6c95e18c7310c97e47b3e5bcf65c23180a899a85c97d9fa8f5f773c98"
+hash = "5797e3c9c29a3b1e7df837a2a0c2f065c4961427bd2374ba37e7c661b689005f"
 metafile = true
 
 [[files]]
@@ -878,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "eda50091c6726855de7a3c08259a83282f65b8845b26ea8c2f824b2ad5f0d599"
+hash = "81f7a20df777534572fca0e38d78c6228757c9f9d1a934837e770db9d759b250"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "1bd16c36df6be2752be3da5fcf414b252e4f6f8bb4cb086d0eca02e66afd7555"
+hash = "54bb24a1eadc460db4f0d3066001cf409e682a02a2ecd22500531185791fa41b"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
-hash = "1f218330eca2e10fc2a856503a3fe1f29dc50d003c6891ada71a979240b7f2d7"
+hash = "d0b4f6715ac8a83442fc08a5e32912faac5ebb22e99c801891fb28149be6ae6b"
 metafile = true
 
 [[files]]
@@ -1052,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "cedb915a00e17a1a277a1036ecebc91a3abf219ff90e81817e43ba499d4d81b7"
+hash = "529a4dea81dc871fa30c9f0429831840cf002f470403cf8b5d5233d287572a68"
 metafile = true
 
 [[files]]
@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "d3f1d02d785b5dd6d53ab6b38a903558b36e1e97dfb4e64b76375c75e26e90bb"
+hash = "48703650f28a5eacb8adf6ec2e69a9281ef57f0d65f341d5b0079eaf7ecfb121"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "63ce25d85a031914d8f0b9360635c5c9ff0da961663698200280c685d46179b2"
+hash = "11dc9ff856643ec1c9833fb821760c86e6a0ae7fca8c31769a385549237c96c9"
 metafile = true
 
 [[files]]
@@ -1176,7 +1176,7 @@ hash = "79e76d2a52a932f801bfe45e57f9aa1803398c41e21bfe716f42931fa0696bae"
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "b693b47afa78112b881816a92b26f1e5cd5c9b1ba0f77b7b6a630d0eb101524f"
+hash = "69257394bdf9a49063e4ec9324b74189997600e32c6ec8e14d21efdc70a2d9e0"
 metafile = true
 
 [[files]]
@@ -1196,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
+hash = "2d0ca6e5a2077ae624a65a5310f36ddd6736de699748ac3959022e03844e2f52"
 metafile = true
 
 [[files]]

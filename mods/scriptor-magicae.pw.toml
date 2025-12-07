@@ -1,13 +1,13 @@
 name = "Scriptor Magicae"
-filename = "scriptor-fabric-1.4.14-sgd.jar"
+filename = "scriptor-fabric-1.4.15-sgd.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JyJgaOrk/versions/cDqLCfzb/scriptor-fabric-1.4.14-sgd.jar"
+url = "https://cdn.modrinth.com/data/JyJgaOrk/versions/VvGx2TOL/scriptor-fabric-1.4.15-sgd.jar"
 hash-format = "sha512"
-hash = "ed526f5a3ba63bb90f63e2c2711bb75adadb84450f72f09961ac04cb2a3b39ef1339cfbc9aaceec338cd577d0f7b55b83719ec5048058a7a5cc43bf7307e37b9"
+hash = "92acb8763607386103774ebd58a6c78a5e186566be50cd2e9adb838b6afcabc1a4a0b7c18139187d254019cdde445a4187df2c3fff331472703e4eceb1baf16b"
 
 [update]
 [update.modrinth]
 mod-id = "JyJgaOrk"
-version = "cDqLCfzb"
+version = "VvGx2TOL"
