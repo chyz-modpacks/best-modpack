@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/conjuring-1.0.30+1.21.jar"
-hash = "edfbbc5e18a8ca5e1f1506fb339b1198b6a84c3a098975256e424e529206af93"
+hash = "ac36d011ac422875eb9d816c3cc127cb6a229afc7713f3cae6441e044bf56162"
 
 [[files]]
 file = "mods/connected-doors.pw.toml"
@@ -590,6 +590,11 @@ hash = "e14b54f81175cd5c9efc47bb6f1d4c0b7cbce20b4f8d2359082c4cfc888d68cc"
 metafile = true
 
 [[files]]
+file = "mods/ghost.pw.toml"
+hash = "dab7b261050f3e07518a99c1a03a91b9287c29b182d3b6a6657ad12d668acaf4"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
@@ -833,6 +838,11 @@ hash = "416ed38dcfc85eb71019b48c344915b03447f134c134e4c5ffc5a3523e613123"
 metafile = true
 
 [[files]]
+file = "mods/nightlights.pw.toml"
+hash = "6b63d15284f95807dd5dcf19e6c1d0132cbac508426162d8db775a1c3a6a228d"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
@@ -989,6 +999,11 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "1f218330eca2e10fc2a856503a3fe1f29dc50d003c6891ada71a979240b7f2d7"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "59749f19cc0fc17b6bcd2cec2f11237890c5650c3e64e79ee4a947a8be793fba"
 metafile = true
 
 [[files]]
@@ -1170,6 +1185,11 @@ hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
 metafile = true
@@ -1204,6 +1224,10 @@ hash = "81377e223ea189b5da8c8ad22321c2b8b7c6cc78faa45e37a70e422a8af42ece"
 [[files]]
 file = "servers.dat"
 hash = "c3c3046ff01c045c88f674322309fe524855524dae05d4ae387cc3d451fba795"
+
+[[files]]
+file = "update"
+hash = "df2d7cefec60f8b4326392e03af86a10c61653d8d0592ff54e432e72cd718a3a"
 
 [[files]]
 file = "update.bat"
