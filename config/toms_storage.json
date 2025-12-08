@@ -16,6 +16,7 @@
     "create:belt"
   ],
   "blockedMods": [
-    "classicpipes"
+    "classicpipes",
+    "advanced_networking"
   ]
 }

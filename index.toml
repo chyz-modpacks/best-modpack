@@ -90,7 +90,7 @@ hash = "131b2d55fcc8967d560141a33284df33b71869a1e6852793599e009fb27cf2f3"
 
 [[files]]
 file = "config/toms_storage.json"
-hash = "d99ab3192f1301d6cc989471978dd321624cc4acca2417e69477e00d88cc4560"
+hash = "56c01849435b0e89acae804a19930adfcf390ae6ca494004cf992d092b12751b"
 
 [[files]]
 file = "config/walkers.json5"
