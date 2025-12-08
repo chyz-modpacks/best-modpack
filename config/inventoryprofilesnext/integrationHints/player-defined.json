@@ -213,5 +213,24 @@
                 "top": -1
             }
         }
+    },
+    "de.dafuqs.spectrum.inventories.CompactingChestScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 2
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "top": -16
+            }
+        }
     }
 }
