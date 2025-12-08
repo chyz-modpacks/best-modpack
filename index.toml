@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/BetterPlayerLocatorBar/options.json"
-hash = "53c1f8c42e3721f2794224feaea769a2087abcbfaf2dbc947c1806127889bf8c"
+hash = "a4fdd3c8c767dbb29c710d39bb35a21d677198a27ac1ebbca162336366874e01"
 
 [[files]]
 file = "config/WildfireGender/7fa2402a-8fdb-4584-9a9b-33b4c9dcf941-old.json"
@@ -79,10 +79,6 @@ hash = "bb1af9a286ad7fb9634e64965d799656676032fad3f005e0e51c6be0f315a815"
 [[files]]
 file = "config/pingwheel.json"
 hash = "08f7c00e4846c684612f58cff1cd4225dfa6a7e1e91f7d24ed723090693ce514"
-
-[[files]]
-file = "config/player-locator-plus.toml"
-hash = "1ab2e7ff78b231fa4044dd02bfd9ab1f8ef696c780a1a2822c69d7408a1dfd7a"
 
 [[files]]
 file = "config/supplementaries-common.json"
