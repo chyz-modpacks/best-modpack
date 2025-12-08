@@ -114,6 +114,11 @@ hash = "5000fd77a7eabd1e46e7b60a1a2f9822cbd74773374c8ca877933bc676ca58ff"
 metafile = true
 
 [[files]]
+file = "mods/advancements-fullscreen.pw.toml"
+hash = "5d79113df1a0c6bfef366359ebe6b73dc3cec78d0e3d0a3b0f32014b1ddbe0c3"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "b83be649099ba1f38968a9d331acbfb36e6a45863c290a0ddc8f55b010d74422"
 metafile = true
