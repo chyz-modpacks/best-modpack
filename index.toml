@@ -85,6 +85,10 @@ file = "config/supplementaries-common.json"
 hash = "131b2d55fcc8967d560141a33284df33b71869a1e6852793599e009fb27cf2f3"
 
 [[files]]
+file = "config/toms_storage.json"
+hash = "d99ab3192f1301d6cc989471978dd321624cc4acca2417e69477e00d88cc4560"
+
+[[files]]
 file = "config/walkers.json5"
 hash = "df2d7bdda696bd2ab7002022daa6ecbc9a1b8573357c9d91e0acf10a08117174"
 
@@ -264,11 +268,6 @@ hash = "47d97f324ddaad495c562a51fb4be387ee4211da8ca930544a95762b83946db2"
 metafile = true
 
 [[files]]
-file = "mods/burning.pw.toml"
-hash = "94840f3b80706fa0a25a2885e6215fdbd2c87dc139a31589f8b584dce77582a7"
-metafile = true
-
-[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "3cc79a406a67f07707ed8676b1b5786d2112547dca4df21757ea5e54c7cfe72d"
 metafile = true
@@ -443,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/edf-remastered.pw.toml"
 hash = "ccd5ce47b97cdde28dbea9c3b3d49b5b89229ce5e260311688eb4a41182e5b78"
+metafile = true
+
+[[files]]
+file = "mods/eldritch-mobs.pw.toml"
+hash = "2bbe7407f917bc36c89735732ee532ae0f7a27ec4d37912db646d7fcc8db604b"
 metafile = true
 
 [[files]]
