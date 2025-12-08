@@ -399,6 +399,11 @@ hash = "a2121b0a3492739ab53c5a9157e2b6f0444051ec2e729cfc823e11f39dc4f8c9"
 metafile = true
 
 [[files]]
+file = "mods/deeper-oceans.pw.toml"
+hash = "aed4e4c2207a7b069fc05eec24fb10cfa15d73ad1b9085e86eb301cff598095b"
+metafile = true
+
+[[files]]
 file = "mods/desert-scourge.pw.toml"
 hash = "94fb6d8139e8c8d22ea9c73b98ae5cc606183e04b5b63929f0c43883c74ec6cb"
 metafile = true
@@ -739,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "237f61291d7f6cbfe8bafd6fc22657000adc2b8de269061eb81b6eb21d3ea5d1"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "5cccbe33e96d27254469cd51ebe3d39fd89c93bbcb78e5c57029b9529149d70a"
 metafile = true
 
 [[files]]
