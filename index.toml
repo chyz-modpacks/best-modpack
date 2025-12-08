@@ -322,11 +322,6 @@ hash = "8968c07c99085bb8686faa1673276989bbe431bedcacce9a864bd5aed3ed91fa"
 metafile = true
 
 [[files]]
-file = "mods/combat-maids.pw.toml"
-hash = "5ee89d6c6124d73e1438544b770e14e36fe387b2d4692d70e8b758fbb54af7c3"
-metafile = true
-
-[[files]]
 file = "mods/companions-mod.pw.toml"
 hash = "9ae9e55bca5ac5afd77c631821889c67a50fe9a5d442f37609cbfd51c34bf56f"
 metafile = true
