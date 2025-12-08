@@ -332,8 +332,8 @@ hash = "4c3179c71934c8e8b020b6b5cef74f05fcf0e18ca48f016d5ecc979cd28e41ea"
 metafile = true
 
 [[files]]
-file = "mods/conjuring-1.0.30+1.21+fixed.jar"
-hash = "edfbbc5e18a8ca5e1f1506fb339b1198b6a84c3a098975256e424e529206af93"
+file = "mods/conjuring-1.0.69+1.21.jar"
+hash = "e2594db23b2db35959102e9c5fa4a4959650f5fe5e9530312a75aee21f9f527c"
 
 [[files]]
 file = "mods/connected-doors.pw.toml"
