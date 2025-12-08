@@ -45,6 +45,10 @@ file = "config/cumulus_menus-client.toml"
 hash = "7157329186eefae13d34a2a5e5567b7ef9156b2d7f6608adcec91eddb290205d"
 
 [[files]]
+file = "config/eldritch_mobs.json5"
+hash = "4f068710d3ad3499f6bec9d158701a2f6387f210dbed62d179427b13f477f05e"
+
+[[files]]
 file = "config/figura.json"
 hash = "cfac91267b1db653c78284bf1cbf9a753d55732bc710b06b67d8fcee1d19c762"
 
