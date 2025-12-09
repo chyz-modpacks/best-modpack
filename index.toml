@@ -399,6 +399,11 @@ hash = "a2121b0a3492739ab53c5a9157e2b6f0444051ec2e729cfc823e11f39dc4f8c9"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+hash = "350d9f8e549db2855a47233dfb8e108c9ebc3373bebb5d0a65ade846bd85a7d4"
+metafile = true
+
+[[files]]
 file = "mods/deeper-oceans.pw.toml"
 hash = "8344479722713cccda786b55efca7fb0503317c9018042fac3a4db21a3c38b0d"
 metafile = true
