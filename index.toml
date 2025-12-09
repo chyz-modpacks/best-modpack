@@ -5,10 +5,6 @@ file = "config/BetterPlayerLocatorBar/options.json"
 hash = "a4fdd3c8c767dbb29c710d39bb35a21d677198a27ac1ebbca162336366874e01"
 
 [[files]]
-file = "config/WildfireGender/7fa2402a-8fdb-4584-9a9b-33b4c9dcf941-old.json"
-hash = "7edb77b571f2a867592acb74927a9fdbaa3ba70fd9b8d18a2ba5e70739d270d3"
-
-[[files]]
 file = "config/additionalplacements-client.toml"
 hash = "0a38a698e431d7313b6a153da175c0ac610e127ab97ca30907ce87ad9c2f6690"
 
@@ -414,21 +410,6 @@ hash = "94fb6d8139e8c8d22ea9c73b98ae5cc606183e04b5b63929f0c43883c74ec6cb"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "23b3bf6d1931acd2aa6daa5409b274b0d4ec9ec659c01d11454093d8fcd1e342"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-walls.pw.toml"
-hash = "33c41ce33262edd33832faac7b18119f356ab55352e74fc89f58c13a856cabce"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "2bcdcf72c50d93ef010c8895ad1588baf9181612dcbdd05a2a870ff88bc34649"
-metafile = true
-
-[[files]]
 file = "mods/dontdothat.pw.toml"
 hash = "331f0454f0d8488a34d4ee050c30af5506830eb8ea537889cfd80621a3f8281e"
 metafile = true
@@ -541,11 +522,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "debc633d962665af2873b7e4c74a5bd8da18d6a883971e73b9039f9612f457b7"
-metafile = true
-
-[[files]]
-file = "mods/female-gender.pw.toml"
-hash = "bba8e3c0aacfdce33ff9eaf796d3b977e00169fb826fac206777316ab9a7f73c"
 metafile = true
 
 [[files]]
@@ -963,11 +939,6 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
-metafile = true
-
-[[files]]
-file = "mods/pronounmc-neo.pw.toml"
-hash = "e1bd68ed2cd4348bcd88f2773cbe56ba06961b4ee7b665eb900ef3b89c1b497f"
 metafile = true
 
 [[files]]
