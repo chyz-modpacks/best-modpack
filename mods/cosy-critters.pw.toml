@@ -1,0 +1,13 @@
+name = "Cosy Critters & Creepy Crawlies"
+filename = "cosycritters-0.2.0+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/61PI8Hzj/versions/qkMluzwp/cosycritters-0.2.0%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "190d450afcfeb5dee880871c727fe73fc32b1915a3d897792fb0e0d722b82f73093ffb36b6cf47d2b093ea052aa227df13d080f3d1e19659c63fdbb7965dc582"
+
+[update]
+[update.modrinth]
+mod-id = "61PI8Hzj"
+version = "qkMluzwp"
