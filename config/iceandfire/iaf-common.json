@@ -133,7 +133,7 @@
   "tools": {
     "dragonFireAbility": true,
     "dragonIceAbility": true,
-    "dragonLightningAbility": true,
+    "dragonLightningAbility": false,
     "dragonsteelFireDuration": 15,
     "dragonBloodFireDuration": 5,
     "dragonsteelFrozenDuration": 300,

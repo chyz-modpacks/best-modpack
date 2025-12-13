@@ -54,7 +54,7 @@ hash = "4e3329aa1095d126180a7965ff404f25c104372efbab6c6d9d348909fec0932a"
 
 [[files]]
 file = "config/iceandfire/iaf-common.json"
-hash = "b72ed4db2f0177e7eb77dbbcdb3a1dd49b9cd5c88493feccc31c4db30a7f556d"
+hash = "4ae675a322657c5bfb199c6e2542c05d058e164bd2080406ed79c4a97f4a0a50"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
