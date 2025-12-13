@@ -1,0 +1,13 @@
+name = "Impillagers"
+filename = "impillagers-1.6.1+1.21.1-multiloader.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qTL0SYMP/versions/Ckouvpca/impillagers-1.6.1%2B1.21.1-multiloader.jar"
+hash-format = "sha512"
+hash = "140158939e635c2d0edf83c5bd817060aaa639e5fe96dbd0a75ecadefbcb7a6bf7e4af0341aa8bae92ddfaeb803eb715d364506a8756fcdb959f720ef196351b"
+
+[update]
+[update.modrinth]
+mod-id = "qTL0SYMP"
+version = "Ckouvpca"

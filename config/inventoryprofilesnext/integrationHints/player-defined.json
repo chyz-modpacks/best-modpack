@@ -232,5 +232,78 @@
                 "top": -16
             }
         }
+    },
+    "de.dafuqs.spectrum.inventories.PedestalScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "top": -16
+            }
+        }
+    },
+    "jagm.classicpipes.client.screen.AdvancedCopperPipeScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "top": -16
+            }
+        }
+    },
+    "io.wispforest.affinity.client.screen.ItemTransferNodeScreen": {
+        "ignore": true
+    },
+    "io.wispforest.affinity.misc.screenhandler.ItemTransferNodeScreenHandler": {
+        "ignore": true
+    },
+    "de.dafuqs.spectrum.inventories.BlackHoleChestScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": -17
+            },
+            "SORT": {
+                "top": -17
+            },
+            "SORT_COLUMNS": {
+                "top": -17
+            },
+            "SORT_ROWS": {
+                "top": -17
+            }
+        }
+    },
+    "de.dafuqs.spectrum.inventories.CinderhearthScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "top": -16
+            }
+        }
     }
 }
