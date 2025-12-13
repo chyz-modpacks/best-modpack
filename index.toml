@@ -276,11 +276,6 @@ hash = "47d97f324ddaad495c562a51fb4be387ee4211da8ca930544a95762b83946db2"
 metafile = true
 
 [[files]]
-file = "mods/cable-tiers.pw.toml"
-hash = "b28ba71b1f8b1b4b6c6400d2dc8537feff2bc5a97cd24d38714e4880d9def96e"
-metafile = true
-
-[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "3cc79a406a67f07707ed8676b1b5786d2112547dca4df21757ea5e54c7cfe72d"
 metafile = true
@@ -950,26 +945,6 @@ hash = "c6538e2c3d7f853b65cff0eed6eb2d9ee29b48e1fecb3226245b290578f48b5e"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage-quartz-arsenal.pw.toml"
-hash = "5032fe594fbe66cabea1f71ae850c6a69389b9653a21e342f6d1aaf071d5769e"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage-rei-integration.pw.toml"
-hash = "9c1ce3dd9d722135a25694de27a555ee592b487eeed5b2906a51b5ef91d88242"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage-trinkets-integration.pw.toml"
-hash = "07b691b3cfd87a286d6dd6a917df9482f964d350c51c9e9dc4533f6e14f618dd"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "bd6908e31ff73f14ffb53be9b4895fc27a01e8e9fe441455c976803eec31d291"
-metafile = true
-
-[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "7ceada6e6fdfb868c17a2d2212cb3b494150fa5717d653605464176f3e4c65de"
 metafile = true
@@ -1007,11 +982,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "bd3ed617e2811d333650b81b3fe2b800bac12628f262ce4867b86ad41c4e3748"
 metafile = true
 
 [[files]]
@@ -1146,11 +1116,6 @@ metafile = true
 [[files]]
 file = "mods/unfocused.pw.toml"
 hash = "7644685760edf5c3ff9fcdb26b55c55a314756068ec9d80571ced00a1e464892"
-metafile = true
-
-[[files]]
-file = "mods/universal-grid.pw.toml"
-hash = "738b7fed7cbbdff93a22e19637e40334fcb4b8e99520e2d1d7ecfb167293eb7d"
 metafile = true
 
 [[files]]
