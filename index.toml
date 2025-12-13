@@ -1080,11 +1080,6 @@ hash = "3990d42375cd215f43443e938f35415d1b510a30bd3462683f57e5f25b75e712"
 metafile = true
 
 [[files]]
-file = "mods/skinshifter.pw.toml"
-hash = "f83fa6c1a594a6090f33d621904df64d84a5d0da7069db518767a7f251c7af49"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
