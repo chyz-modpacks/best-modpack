@@ -1,13 +1,13 @@
 name = "Fragmentum"
-filename = "fragmentum-fabric-1.21.1-2.0.19.jar"
+filename = "fragmentum-fabric-1.21.1-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/49C5QgTK/versions/Qgo4Vl5d/fragmentum-fabric-1.21.1-2.0.19.jar"
+url = "https://cdn.modrinth.com/data/49C5QgTK/versions/OhTnQYv1/fragmentum-fabric-1.21.1-2.1.0.jar"
 hash-format = "sha512"
-hash = "b510004f5b6772aebdba7fc9a0883d82481d6591e2312b90600bc169ed6e583b2e06d90ad7695f61d14b8f1ae3039dcfe04cd0455b0352e1e324701d3d4b551b"
+hash = "d835f6b964642f5e9a27c97e72a66efe4002d29c0217ee95392322775c39185c90290aeaeebba137019fb2bad43eb4415bd41dce4feb214429d60f72157d3380"
 
 [update]
 [update.modrinth]
 mod-id = "49C5QgTK"
-version = "Qgo4Vl5d"
+version = "OhTnQYv1"

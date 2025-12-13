@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/fragmentum.pw.toml"
-hash = "b39d1ec64d6a41035c3db8b533b83d180bb1dd0b81e9fbf62ef71f4325b7af13"
+hash = "5203b451346d0accdc265d5989824f30c79ad87554a4c462cb7b534d8deb05e7"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "c9ac6fb1fc71e6486ab4a09d134415e08b94cff208cea134618d94b052e31879"
+hash = "a55e547f30226037a2bc5bd534904234f91189b5102a61f13596941cbf8d5654"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
-hash = "f0e8c7724e986fc18525f5939f2308dd6437493013a0fa076c52335f30fe21eb"
+hash = "019e0e9e743977ab099765d1f0fbb615dff8f17d8d418a7dc2bd51581218569d"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9236940eafe8e97819f093c3c77236ee47de3b7f97a17f3fcf31114034962611"
+hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "5cccbe33e96d27254469cd51ebe3d39fd89c93bbcb78e5c57029b9529149d70a"
+hash = "1fcfdabe052ab05353d3cb4a13ad4dc25b2b1ad974d633ab000be8e90c5fce75"
 metafile = true
 
 [[files]]
@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5797e3c9c29a3b1e7df837a2a0c2f065c4961427bd2374ba37e7c661b689005f"
+hash = "9ad3d84400b76fdfe4bc7abaec90a2308195e6e350c64ac473ba7e9748b2cfce"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7d5af9f25bc04dd33ec6e55983f7c660d0802461ecad3b5a820dd05dfcef2f70"
+hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
 metafile = true
 
 [[files]]
@@ -954,6 +954,11 @@ metafile = true
 [[files]]
 file = "mods/reaping.pw.toml"
 hash = "c6538e2c3d7f853b65cff0eed6eb2d9ee29b48e1fecb3226245b290578f48b5e"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "bd6908e31ff73f14ffb53be9b4895fc27a01e8e9fe441455c976803eec31d291"
 metafile = true
 
 [[files]]
@@ -1082,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "48703650f28a5eacb8adf6ec2e69a9281ef57f0d65f341d5b0079eaf7ecfb121"
+hash = "928cc3c0b459ae9e48195e18e43f8464600583451c338868af2623fd79b6b652"
 metafile = true
 
 [[files]]
@@ -1112,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/trailier-tales.pw.toml"
-hash = "636cb74d53d19e6a00b926bafe4d345114277382287b83cd9560adfa7439a550"
+hash = "b45fcd239d9787c7f3d104c300cc61979e7f0cd8363d59716b603d4adb36b202"
 metafile = true
 
 [[files]]
@@ -1162,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "3fefc12166c170f5a701e93067aedba80ae033303afbc4f15d90b09aa4c05382"
+hash = "57e15d674ae6b49cc42e4503454a3220884bed926a758eedf9895bae10db8e4b"
 metafile = true
 
 [[files]]
@@ -1171,7 +1176,7 @@ hash = "79e76d2a52a932f801bfe45e57f9aa1803398c41e21bfe716f42931fa0696bae"
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "69257394bdf9a49063e4ec9324b74189997600e32c6ec8e14d21efdc70a2d9e0"
+hash = "ae63b7830bbb88a21d3f1f0794e175cd283a1bc2f74f3c8fbff48578e4ce52a3"
 metafile = true
 
 [[files]]
@@ -1219,11 +1224,3 @@ hash = "81377e223ea189b5da8c8ad22321c2b8b7c6cc78faa45e37a70e422a8af42ece"
 [[files]]
 file = "servers.dat"
 hash = "c3c3046ff01c045c88f674322309fe524855524dae05d4ae387cc3d451fba795"
-
-[[files]]
-file = "update"
-hash = "10ca3f93c80dbffe5f517a67337fdd4459989f49b168a339305ab34f53f517f9"
-
-[[files]]
-file = "update.bat"
-hash = "cb0f61bdbaa5dbf7263e51f8d2b34e548115023a5959d3f380c877f7512fdbe4"
