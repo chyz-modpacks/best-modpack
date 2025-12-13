@@ -1131,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/superposition-fabric-1.21.1-0.2.29.jar"
-hash = "0f8adbefb88dd7b60762df56b08fbccff9890615da52d1484b70c4ceeb03c9bc"
+hash = "18cd8e1cbcba3748ac21c30deee41e21bfa1c2b3d49aa2cceaa2e728ad51f70f"
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
