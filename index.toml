@@ -559,11 +559,6 @@ hash = "74851fe1378e23d4c3b3f8d01fc9de99e930c373a83e86e27886cc50bceefed8"
 metafile = true
 
 [[files]]
-file = "mods/friends-for-life.pw.toml"
-hash = "b7c548931eeac8089a05bc14e1fde92288262ffa1ff4a6c60b49aee18a4616e7"
-metafile = true
-
-[[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "a55e547f30226037a2bc5bd534904234f91189b5102a61f13596941cbf8d5654"
 metafile = true
