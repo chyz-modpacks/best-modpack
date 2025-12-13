@@ -1,0 +1,8 @@
+{
+	"everybodyCanManageAssets": true,
+	"everybodyCanApplyCostumes": true,
+	"everybodyCanDeleteOtherCostumes": false,
+	"everybodyCanUpdateOtherCostumes": false,
+	"maxCostumeSlots": 100,
+	"maxTotalStorage": 134217728
+}

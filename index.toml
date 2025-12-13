@@ -37,6 +37,10 @@ file = "config/be_a_doll.toml"
 hash = "1b642ca9415a391015e9b0aabba3a3a45b0146fac54f1daa9d801a360790fa4a"
 
 [[files]]
+file = "config/blazing-agenda.json5"
+hash = "e6a2c7564ca5bcbf8c22405a86d27dd5f018fff9a146d2cabf490d7549af3439"
+
+[[files]]
 file = "config/cumulus_menus-client.toml"
 hash = "7157329186eefae13d34a2a5e5567b7ef9156b2d7f6608adcec91eddb290205d"
 
@@ -332,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/companions-mod.pw.toml"
 hash = "9ae9e55bca5ac5afd77c631821889c67a50fe9a5d442f37609cbfd51c34bf56f"
+metafile = true
+
+[[files]]
+file = "mods/compat-delight.pw.toml"
+hash = "556c67c48d1e8501210431d1283a43c7f874f34aeee299ce2ea5d4d15f1a4f4a"
 metafile = true
 
 [[files]]
@@ -874,16 +883,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "926b164571a4445ec0b3b02bb5ac7a24e7797c2b4a20e665352ff190f6918184"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "39be6d2deb24772f6c0a84a5b267e2dd676c320ba6b0a73e8b143a11de73a321"
 metafile = true
 
 [[files]]
