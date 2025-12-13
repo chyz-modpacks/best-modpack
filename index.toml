@@ -1209,9 +1209,8 @@ hash = "85d1788a1c878b80479d7684084bfc8bc9ff74c83f9f359c88716cb8416a1c29"
 metafile = true
 
 [[files]]
-file = "mods/veil.pw.toml"
-hash = "5b954c1b21fa4073ce3e6ce2e852ecad4f906f46048c661651d946927eb99984"
-metafile = true
+file = "mods/veil-fabric-1.21.1-2.5.1.jar"
+hash = "d6bebbaf42ea3bf0e4019a0ebc5c7895ba539c002f3a8665b5662395589f0053"
 
 [[files]]
 file = "mods/voidz.pw.toml"
