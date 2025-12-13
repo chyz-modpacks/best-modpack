@@ -508,11 +508,6 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
-file = "mods/familiar-magic.pw.toml"
-hash = "6b14ab2c165e1d13bc452e555351be4ee6549aa79d7f7f5c75ba239f2d9a11d6"
-metafile = true
-
-[[files]]
 file = "mods/fancy-door-animations.pw.toml"
 hash = "bf31237265288df10e5629d6a67a447723eb68c20351e51ce149d6218a27e7f2"
 metafile = true
@@ -648,11 +643,6 @@ hash = "f05b7aec4046e3860a4795a74b036c58153b509f5ba1f4a8cacc6ab5a1dff87e"
 metafile = true
 
 [[files]]
-file = "mods/impillagers.pw.toml"
-hash = "a25095d073dd3864cb79bc579865a4a7565ef8ab846c1394700f13e889daac83"
-metafile = true
-
-[[files]]
 file = "mods/inline.pw.toml"
 hash = "5564eb9e3b9a1f1f38cb4e57573559fefd7f9b68804a2cc5380d39dfeaf51b41"
 metafile = true
@@ -692,7 +682,7 @@ hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
 metafile = true
 
 [[files]]
-file = "mods/jerry-rigged-1.0.7.jar.disabled"
+file = "mods/jerry-rigged-1.0.7.jar"
 hash = "656d8d5bf691eb3730f3142dcbdf2fc38389c8470e735b3e96be36c30dc17e70"
 
 [[files]]
@@ -708,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/just-another-witchery-remake.pw.toml"
 hash = "8fec8e8c20388f07f9cf71aee952aec11e701a4de853df5f531c48ca9ca6b46b"
-metafile = true
-
-[[files]]
-file = "mods/kitchen-projectiles.pw.toml"
-hash = "6d649ff43296d2baffdc18318e01c0d55f212dc6ca4b2673054eb4b67f2721e5"
 metafile = true
 
 [[files]]
@@ -793,11 +778,6 @@ metafile = true
 [[files]]
 file = "mods/mini-boss-boss-bars.pw.toml"
 hash = "570c82bcd098f71f8bbe1f979f5d48167dcfa9b18672603dee2affd21e9d3eb5"
-metafile = true
-
-[[files]]
-file = "mods/mirthdew-encore.pw.toml"
-hash = "c620633e2d849d484f35685d948a264a28221f340255eb311b7494015baac47e"
 metafile = true
 
 [[files]]
@@ -957,11 +937,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
-metafile = true
-
-[[files]]
-file = "mods/raccoons-rabies.pw.toml"
-hash = "0be3dd7fe4d4733852cf3bda719b5ba74617ef90da99f1b5d1e52889d74f9f2c"
 metafile = true
 
 [[files]]
@@ -1156,11 +1131,6 @@ metafile = true
 [[files]]
 file = "mods/trailier-tales.pw.toml"
 hash = "b45fcd239d9787c7f3d104c300cc61979e7f0cd8363d59716b603d4adb36b202"
-metafile = true
-
-[[files]]
-file = "mods/trailtales-delight.pw.toml"
-hash = "7b83fb97e1b10d79facae8c65138bd3c915ff25bba39761f0d04639f2c4cd37a"
 metafile = true
 
 [[files]]
