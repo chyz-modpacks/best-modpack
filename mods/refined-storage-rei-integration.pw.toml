@@ -1,0 +1,13 @@
+name = "Refined Storage - REI Integration"
+filename = "refinedstorage-rei-integration-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RGAJWsc3/versions/LSiWqkiI/refinedstorage-rei-integration-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "78ed630ee2238fc50441d0deaa0fef4a760a8e302fe0f90c29c8b07926c0ce3aba1a5fd0d6a18a194c74b069ca489a171fbb718eccc4908f67fba402178e1440"
+
+[update]
+[update.modrinth]
+mod-id = "RGAJWsc3"
+version = "LSiWqkiI"
