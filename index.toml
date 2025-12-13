@@ -45,10 +45,6 @@ file = "config/cumulus_menus-client.toml"
 hash = "7157329186eefae13d34a2a5e5567b7ef9156b2d7f6608adcec91eddb290205d"
 
 [[files]]
-file = "config/eldritch_mobs.json5"
-hash = "4f068710d3ad3499f6bec9d158701a2f6387f210dbed62d179427b13f477f05e"
-
-[[files]]
 file = "config/figura.json"
 hash = "cfac91267b1db653c78284bf1cbf9a753d55732bc710b06b67d8fcee1d19c762"
 
@@ -458,11 +454,6 @@ hash = "ccd5ce47b97cdde28dbea9c3b3d49b5b89229ce5e260311688eb4a41182e5b78"
 metafile = true
 
 [[files]]
-file = "mods/eldritch-mobs.pw.toml"
-hash = "2bbe7407f917bc36c89735732ee532ae0f7a27ec4d37912db646d7fcc8db604b"
-metafile = true
-
-[[files]]
 file = "mods/electromechanics.pw.toml"
 hash = "75c5a41f5694317da93161da1baa34bfc6eb0fd30f5a5b22e7f7c688a253beae"
 metafile = true
@@ -470,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/enchanted-bookshelves.pw.toml"
 hash = "537cf398bf67e3390a599f07fa46a595defd7ec5d4d3db508c2ae8046e706688"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-witchcraft.pw.toml"
+hash = "3d1231e1deeffe02b1c2db84cb4abb0bc97d1c2e617fb67015d8e4a72a6b3164"
 metafile = true
 
 [[files]]
@@ -510,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights-fabric.pw.toml"
+hash = "5e8333955e9018566befcec2bbf90c60caa4835e754d7af794999bd124e33eb9"
 metafile = true
 
 [[files]]
@@ -736,6 +737,11 @@ hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
 
 [[files]]
+file = "mods/leashable-collars.pw.toml"
+hash = "59338bbafcf009496b11b92e84eec7b518a93f71f8b3af09e5bafc3400d575c1"
+metafile = true
+
+[[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "35c9286e4ba744cca20c3f8c5c069880e9f6bf7364c6a3bdccf5a83ea7213e9e"
 metafile = true
@@ -773,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/marketable-plushies.pw.toml"
 hash = "c9653dac8290a137c824a9483a0f56e28e26759802dcf0513f39ce146b4816cb"
+metafile = true
+
+[[files]]
+file = "mods/maxwell-the-placeable-cat.pw.toml"
+hash = "bf8ea784b7cb5adef027dab15131d6838c0205dcf3b886f06d080f0c8bdb5aad"
 metafile = true
 
 [[files]]
@@ -823,6 +834,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "92d36816a433e62d0548bdb72023c50d2b9b0146ec8c7d1bfb484301f113e44a"
+metafile = true
+
+[[files]]
+file = "mods/modopedia.pw.toml"
+hash = "0ae00030ce4e2c49045e9f861d3e0d007a4a9e6f01265a7e075a7d779552cdfd"
 metafile = true
 
 [[files]]
@@ -1015,6 +1031,11 @@ hash = "bd6908e31ff73f14ffb53be9b4895fc27a01e8e9fe441455c976803eec31d291"
 metafile = true
 
 [[files]]
+file = "mods/reframed.pw.toml"
+hash = "b6021cd52db0eee9a48d1aa31552d1158bf8b454b424ea0ddda9011e324efa0b"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "7ceada6e6fdfb868c17a2d2212cb3b494150fa5717d653605464176f3e4c65de"
 metafile = true
@@ -1121,6 +1142,11 @@ metafile = true
 [[files]]
 file = "mods/spooky-doors.pw.toml"
 hash = "4c88cb190297734981718c4ff04eef2fa35e8286dfab936ab5f8597aff458dbd"
+metafile = true
+
+[[files]]
+file = "mods/stateobserver.pw.toml"
+hash = "11e7f8aef72cef36e06453d58ac1c753de41e8f73248479ddc818f8b2b71f3bb"
 metafile = true
 
 [[files]]

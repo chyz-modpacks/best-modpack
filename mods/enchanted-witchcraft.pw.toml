@@ -1,0 +1,13 @@
+name = "Enchanted: Witchcraft"
+filename = "enchanted-fabric-1.21.1-4.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HsbpdVo9/versions/1jq1BxHm/enchanted-fabric-1.21.1-4.2.3.jar"
+hash-format = "sha512"
+hash = "823cc32b60d284209dec60bc50a31e9591c16ac328abbe4a7399c8d9cf06980da8052a44f2b7b3d06ad983abb86f2d06f719b9d2744b4180e16a4c7eac19119a"
+
+[update]
+[update.modrinth]
+mod-id = "HsbpdVo9"
+version = "1jq1BxHm"
