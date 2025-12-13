@@ -242,10 +242,6 @@ hash = "6ad56a9580061e6d287ba30806d62d5452caaff8cb0fb655748fbd0599017cc2"
 metafile = true
 
 [[files]]
-file = "mods/blazing-agenda-0.1.0.jar"
-hash = "aae9f1f170f5dfed30acdbf872c96d8c51585d62109bd420f289b077a99bb896"
-
-[[files]]
 file = "mods/blockus.pw.toml"
 hash = "9215ff2d8210dbea85c4e1139d566bd504bac50cb8e0396e7475079cb3270bd7"
 metafile = true
@@ -468,11 +464,6 @@ hash = "91195d83425abdc8ba2ead9159d6570dcf9245f984fcb3692cc0c36f2a14e941"
 metafile = true
 
 [[files]]
-file = "mods/enderscape.pw.toml"
-hash = "40be4ad7e0404bff407c28d93f9d5ae70cbf5c610c0e7693650640a3ae8354fa"
-metafile = true
-
-[[files]]
 file = "mods/endrem.pw.toml"
 hash = "389c30cfae2e35405bc8efe5c5e1eb853ab8b3e031d45e889b597c581632d420"
 metafile = true
@@ -545,11 +536,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "74851fe1378e23d4c3b3f8d01fc9de99e930c373a83e86e27886cc50bceefed8"
-metafile = true
-
-[[files]]
-file = "mods/friends-for-life.pw.toml"
-hash = "b7c548931eeac8089a05bc14e1fde92288262ffa1ff4a6c60b49aee18a4616e7"
 metafile = true
 
 [[files]]
@@ -758,11 +744,6 @@ metafile = true
 [[files]]
 file = "mods/message-arrows.pw.toml"
 hash = "984c60ec2cc6e3c3af8d76948f858aaa6b8f618a42677548202c2f00aac9a02b"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "492fe2b4d82b00489ddc4d1f8c3f5489f7f847e999cfd6dec5de27e2ba683811"
 metafile = true
 
 [[files]]
@@ -1076,11 +1057,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
-metafile = true
-
-[[files]]
-file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "1a19b8e71e7ec55f1a6c02f69f7eb73de1cbf0131e2186d04315ba8b423bfeb1"
 metafile = true
 
 [[files]]
