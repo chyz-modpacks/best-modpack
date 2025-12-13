@@ -1125,10 +1125,6 @@ hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
 metafile = true
 
 [[files]]
-file = "mods/superposition-fabric-1.21.1-0.2.29.jar"
-hash = "18cd8e1cbcba3748ac21c30deee41e21bfa1c2b3d49aa2cceaa2e728ad51f70f"
-
-[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "6e42988e60a32a17a6bf9d7f7176911fa1d5093d814d35eb0c62c00318f0b341"
 metafile = true
