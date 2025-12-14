@@ -1,0 +1,13 @@
+name = "CreatureCorner"
+filename = "creaturecorner-fabric-1.21.1-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gJpuDQ18/versions/XmkuYsu5/creaturecorner-fabric-1.21.1-0.1.jar"
+hash-format = "sha512"
+hash = "75d7da71bba154c043541df9b032216eadef5e6eb8751191e049a5e5a3b6efffa77133cfb44c5cc411edb8863b8838be37bdc98422b92f9df8089503044486ce"
+
+[update]
+[update.modrinth]
+mod-id = "gJpuDQ18"
+version = "XmkuYsu5"

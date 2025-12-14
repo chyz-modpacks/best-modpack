@@ -384,6 +384,11 @@ hash = "4b134bf893f9a368518eb9e2aed4f3f79e51d381cf811f9c61a805f6d0733cae"
 metafile = true
 
 [[files]]
+file = "mods/creaturecorner.pw.toml"
+hash = "062e7a54e854a7d3cfae67b78c6382f8ce04c73b9b1e88610536902434663b2c"
+metafile = true
+
+[[files]]
 file = "mods/creeper-healing.pw.toml"
 hash = "325eca711fa04bd8b1a9b9dc779c1d6bbb313ce8a354a77402f19c72660d80fc"
 metafile = true
