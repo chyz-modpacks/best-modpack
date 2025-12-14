@@ -321,11 +321,6 @@ hash = "cb161d03e71e6cab17bcca9d39d894b0d0d855d84632b05b809397d44ff4ac08"
 metafile = true
 
 [[files]]
-file = "mods/clutterbestiary.pw.toml"
-hash = "93c226d31d626561528b4cef9857d1fc2aea655631c57fe52bfc551a7e4b243f"
-metafile = true
-
-[[files]]
 file = "mods/code_name_omniscient-1.0.0.jar"
 hash = "700b92157a18204ece426c04022adc29d25273608fc8f0ec2b703cef7743e04a"
 
@@ -948,16 +943,6 @@ metafile = true
 [[files]]
 file = "mods/peaceful-moon.pw.toml"
 hash = "591c99370b32a4b8c332d37ac841faf79bdaea70cc9b157c3270a9c2207363fd"
-metafile = true
-
-[[files]]
-file = "mods/perfect-parity-1-21-5.pw.toml"
-hash = "49e0811fe174046317cba4a2f574938c6e09ce948903eb642339426f27340012"
-metafile = true
-
-[[files]]
-file = "mods/perfect-parity-the-garden-awakens-edition.pw.toml"
-hash = "e54d5ba962c244265678a3d13877d008b2d95e69c41e6135e5424e48e3997cc2"
 metafile = true
 
 [[files]]
