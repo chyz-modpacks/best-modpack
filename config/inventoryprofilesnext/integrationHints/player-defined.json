@@ -305,5 +305,23 @@
                 "top": -16
             }
         }
+    },
+    "me.basiqueevangelist.blazingagenda.client.gui.FashionScrapbookScreen": {
+        "ignore": true
+    },
+    "me.basiqueevangelist.blazingagenda.screen.FashionScrapbookScreenHandler": {
+        "ignore": true
+    },
+    "com.telepathicgrunt.the_bumblezone.client.screens.BuzzingBriefcaseScreen": {
+        "ignore": true
+    },
+    "com.telepathicgrunt.the_bumblezone.menus.BuzzingBriefcaseMenu": {
+        "ignore": true
+    },
+    "com.telepathicgrunt.the_bumblezone.client.screens.CrystallineFlowerScreen": {
+        "ignore": true
+    },
+    "com.telepathicgrunt.the_bumblezone.menus.CrystallineFlowerMenu": {
+        "ignore": true
     }
 }

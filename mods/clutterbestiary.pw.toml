@@ -1,0 +1,13 @@
+name = "Clutter: Bestiary"
+filename = "clutterbestiary-1.0.1-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FkbDiLgR/versions/MwyrVjjC/clutterbestiary-1.0.1-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "f43d64364e1a2e1a009b3e4d3811bbcef89ff52e1a3a0a931fa23555fbbe01ff4c6c49462762f6afca833f6d0e805bd970fd8f428c849c6ab539f610b4ce08d4"
+
+[update]
+[update.modrinth]
+mod-id = "FkbDiLgR"
+version = "MwyrVjjC"

@@ -58,7 +58,7 @@ hash = "4ae675a322657c5bfb199c6e2542c05d058e164bd2080406ed79c4a97f4a0a50"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "082c800050d945cd90e63dbf9c67dc1ac44e54d6868d2135655d075c8d88f217"
+hash = "79961517aaa8c8699c69d75b655505d11054cbc366f7de9a7f2d4e67ce068ce2"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -318,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/clutter.pw.toml"
 hash = "cb161d03e71e6cab17bcca9d39d894b0d0d855d84632b05b809397d44ff4ac08"
+metafile = true
+
+[[files]]
+file = "mods/clutterbestiary.pw.toml"
+hash = "93c226d31d626561528b4cef9857d1fc2aea655631c57fe52bfc551a7e4b243f"
 metafile = true
 
 [[files]]
@@ -634,8 +639,8 @@ hash = "c3473577e8a890a3cc354e95afcdc4464f487340804f9debc7e35f7ab1dfd76d"
 metafile = true
 
 [[files]]
-file = "mods/i-want-it-earlier.pw.toml"
-hash = "bfd475d58c0772e56f1d4267763500cd453db0b092abdb95431a66c7ce4127a7"
+file = "mods/hyphapiracea.pw.toml"
+hash = "f7a23dd9b7e2974032cfd80dde69c2a4df03f5562166def36e77f79fddb9645f"
 metafile = true
 
 [[files]]
@@ -943,6 +948,16 @@ metafile = true
 [[files]]
 file = "mods/peaceful-moon.pw.toml"
 hash = "591c99370b32a4b8c332d37ac841faf79bdaea70cc9b157c3270a9c2207363fd"
+metafile = true
+
+[[files]]
+file = "mods/perfect-parity-1-21-5.pw.toml"
+hash = "49e0811fe174046317cba4a2f574938c6e09ce948903eb642339426f27340012"
+metafile = true
+
+[[files]]
+file = "mods/perfect-parity-the-garden-awakens-edition.pw.toml"
+hash = "e54d5ba962c244265678a3d13877d008b2d95e69c41e6135e5424e48e3997cc2"
 metafile = true
 
 [[files]]
@@ -1301,6 +1316,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
+metafile = true
+
+[[files]]
+file = "mods/zipline.pw.toml"
+hash = "c5fc88bdd6b5aa32ec8ffe7f4cc8f644589ee811e01ae0043fdec76ec2aafbe0"
 metafile = true
 
 [[files]]
