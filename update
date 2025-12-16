@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PAGES="https://chyz-modpacks.github.io/best-modpack/index.toml"
+PAGES_URL="https://chyz-modpacks.github.io/best-modpack/index.toml"
 CHECK_INTERVAL=10
 
 echo "Refreshing packwiz..."
