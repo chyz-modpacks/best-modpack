@@ -26,7 +26,7 @@ while true; do
     REMOTE_HASH=$(echo "$REMOTE_CONTENT" | sha256sum | awk '{print $1}')
 
     if [ "$LOCAL_HASH" == "$REMOTE_HASH" ]; then
-        echo -e "\n\nPack update is live."
+        echo -e "\nPack update is live."
         break
     fi
 
