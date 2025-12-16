@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "dd27444b02535763c3e41b523dfd585a6baadbef797767b70ce4cdaad4e131d9"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -1096,9 +1096,8 @@ hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
 
 [[files]]
-file = "mods/rods-from-god.pw.toml"
-hash = "7a7846974ea0d8c1cc8c2492bad466014a44258f57800c52fa855f3186ce2a57"
-metafile = true
+file = "mods/rods_from_god-2.0.13+1.21.1.jar"
+hash = "3bf99c5ec219f4019eb4c820c4c7bc0ce0e409df78203a23dcb4432a5c86ba6c"
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
