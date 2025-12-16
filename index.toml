@@ -649,11 +649,6 @@ hash = "f7a23dd9b7e2974032cfd80dde69c2a4df03f5562166def36e77f79fddb9645f"
 metafile = true
 
 [[files]]
-file = "mods/i-want-it-earlier.pw.toml"
-hash = "bfd475d58c0772e56f1d4267763500cd453db0b092abdb95431a66c7ce4127a7"
-metafile = true
-
-[[files]]
 file = "mods/i..am-steve.pw.toml"
 hash = "39d1a2f969c6d780179d2d164e2f696c1b91c28bce9bb144be28a3acd70e94a8"
 metafile = true
