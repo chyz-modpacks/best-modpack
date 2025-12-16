@@ -1,0 +1,13 @@
+name = "Rods from God"
+filename = "rods_from_god-2.0.13+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfJQNrlz/versions/vOAaCXZf/rods_from_god-2.0.13%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "308c8d6a824351a3b2675b578ab4cfeed6a2959b94d28eb885c3d20e4a0bdd61d2ce32944eeb2ce1ba03ca4f97e83b7c1da57e6562cd123afad69e2ecc76f5a8"
+
+[update]
+[update.modrinth]
+mod-id = "lfJQNrlz"
+version = "vOAaCXZf"
