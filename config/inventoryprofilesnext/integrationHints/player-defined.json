@@ -325,20 +325,42 @@
         "ignore": true
     },
     "de.dafuqs.spectrum.inventories.BedrockAnvilScreen": {
-        "playerSideOnly": true,
+        "ignore": true,
         "buttonHints": {
             "MOVE_TO_PLAYER": {
                 "top": -16
             },
             "SORT": {
+                "horizontalOffset": -42,
                 "top": -16
             },
             "SORT_COLUMNS": {
-                "top": -16
+                "horizontalOffset": -30,
+                "top": -16,
+                "bottom": -12
             },
             "SORT_ROWS": {
-                "top": -16
+                "horizontalOffset": -18,
+                "top": -16,
+                "bottom": -24
             }
         }
+    },
+    "com.refinedmods.refinedstorage.common.grid.screen.CraftingGridScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 17
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 17
+            }
+        }
+    },
+    "de.dafuqs.spectrum.inventories.BedrockAnvilScreenHandler": {
+        "ignore": true
     }
 }
