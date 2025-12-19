@@ -822,11 +822,6 @@ hash = "570c82bcd098f71f8bbe1f979f5d48167dcfa9b18672603dee2affd21e9d3eb5"
 metafile = true
 
 [[files]]
-file = "mods/mirthdew-encore.pw.toml"
-hash = "c620633e2d849d484f35685d948a264a28221f340255eb311b7494015baac47e"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "edde86d78cb403fbe13d3d0008cd94fbafcef5dfeb91874da016d6a796b446de"
 metafile = true
